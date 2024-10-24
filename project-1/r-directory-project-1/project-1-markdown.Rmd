@@ -1,0 +1,45 @@
+---
+title: "An analysis of English Premier League Data from 1992-2022"
+output: word_document
+date: "2024-10-24"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# An Introduction to the Data
+
+Dataset is thanks to Evan Gower on Kaggle, and can be found at: https://www.kaggle.com/datasets/evangower/premier-league-matches-19922022
+
+Each entry represents an English Premier League match with the following information:
+
++ **Season_End_Year** - The Year that the Season ends in.
++ **Wk** - The Game Week.
++ **Date** - Date the Game took place on.
++ **Home** - The Home Team.
++ **HomeGoals** - Amount of Goals scored by the Home Team.
++ **AwayGoals** - Amount of Goals scored by the Away Team.
++ **Away** - The Away Team.
++ **FTR** - Full Time Result. (H - Home Win, D - Draw, A - Away Win)
+
+```{r echo=FALSE}
+results <- read.csv("data/premier-league-matches.csv")
+head(results)
+```
+# How many unique teams have played in the Premier League?
+A brief exploration shows that 50 unique teams have played in the Premier League.
+```{r echo=FALSE}
+all_epl_sides <- sort(unique(c(results$Home, results$Away)))
+length(all_epl_sides)
+all_epl_sides
+```
+## Which Teams have played the most Games?
+
+You can also embed plots, for example:
+
+```{r pressure, echo=FALSE}
+plot(pressure)
+```
+
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
