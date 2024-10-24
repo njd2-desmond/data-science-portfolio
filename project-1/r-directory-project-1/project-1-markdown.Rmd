@@ -6,6 +6,15 @@ date: "2024-10-24"
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
+if(!require("ggplot2")){install.packages("ggplot2")}
+if(!require("flextable")){install.packages("flextable")}
+if(!require("psych")){install.packages("psych")}
+if(!require("tableone")){install.packages("tableone")}
+
+library(ggplot2)
+library(flextable)
+library(psych)
+library(tableone)
 ```
 
 # An Introduction to the Data
@@ -27,6 +36,33 @@ Each entry represents an English Premier League match with the following informa
 results <- read.csv("data/premier-league-matches.csv")
 head(results)
 ```
+# brief Dataset Exploration
+```{r}
+str(results)
+summary(results)
+summary(results$HomeGoals)
+names(results)
+```
+# Some Charts
+```{r}
+ggplot(data=results)+
+  geom_histogram(mapping=aes(x=HomeGoals))
+
+ggplot(data=results,aes(x=HomeGoals, y=AwayGoals))+
+  geom_boxplot()
+  
+ggplot(data=results,aes(x=Wk,y=HomeGoals))+
+  geom_point()
+```
+
+```{r}
+Filtered_results = subset (results, (Home == "Arsenal" | Away == "Arsenal") & Season_End_Year == "2020")
+Filtered_results
+wdl_table <- table(Filtered_results$FTR)
+num_filtered_games <- nrow(Filtered_results)
+
+
+```
 # How many unique teams have played in the Premier League?
 A brief exploration shows that 50 unique teams have played in the Premier League.
 ```{r echo=FALSE}
@@ -34,12 +70,4 @@ all_epl_sides <- sort(unique(c(results$Home, results$Away)))
 length(all_epl_sides)
 all_epl_sides
 ```
-## Which Teams have played the most Games?
 
-You can also embed plots, for example:
-
-```{r pressure, echo=FALSE}
-plot(pressure)
-```
-
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
