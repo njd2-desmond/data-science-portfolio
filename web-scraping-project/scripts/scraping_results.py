@@ -23,4 +23,8 @@ for row in column_data[1:]:
     df.loc[length] = individual_row_data
 
 print(df)
+
+df['Score'] = df['Score'].replace({'–': '-', '—': '-', 'NaN': None, 'invalid': None}, regex=True)
+df[['HG', 'AG']] = df['Score'].str.split('-', expand=True)
+df = df.drop(columns=['Score'])
 df.to_csv(r'web-scraping-project\data\epl-24-25-results.csv',index=False)
