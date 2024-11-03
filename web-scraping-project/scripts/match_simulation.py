@@ -1,15 +1,11 @@
 import pandas as pd
 from scipy.stats import poisson
 import random
-results_23_24 = pd.read_csv('web-scraping-project\data\epl-24-25-results-cleaned.csv')
-#results_23_24 = pd.read_csv('web-scraping-project\data\epl-24-25-results.csv').dropna(subset=['Home'])
-team_ratings = pd.read_csv(r'web-scraping-project\data\team-home-away-ratings.csv')
-#home_team = "Manchester Utd"
-#away_team = "Chelsea"
+results_23_24 = pd.read_csv('web-scraping-project\data\epl-24-25-results-cleaned.csv').dropna(subset=['Home']) #If no entry for home side, assume game is not in this row
+team_ratings = pd.read_csv(r'web-scraping-project\data\team-home-away-ratings.csv') #Read in csv from creating_team_ratings
 from scipy import stats
 
 def calculate_xg_values(home_team,away_team,game_ratings):
-    
     home_xg = (game_ratings[game_ratings['Team']==home_team]['xG_x']).iloc[0]
     home_xga = (game_ratings[game_ratings['Team']==home_team]['xGA_x']).iloc[0]
     away_xg = (game_ratings[game_ratings['Team']==away_team]['xG_y']).iloc[0]
@@ -57,7 +53,6 @@ for index, row in results_23_24.iterrows():
 results_23_24.to_csv(r'web-scraping-project\data\season_simulation.csv',index=False)
 
 df = pd.read_csv('web-scraping-project\data\season_simulation.csv')
-print(df)
 
 team_stats = {}
 

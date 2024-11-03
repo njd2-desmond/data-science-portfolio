@@ -37,37 +37,11 @@ results <- read.csv("data/premier-league-matches.csv")
 head(results)
 ```
 # brief Dataset Exploration
-```{r}
-str(results)
-summary(results)
-summary(results$HomeGoals)
-names(results)
-```
-# Some Charts
-```{r}
-ggplot(data=results)+
-  geom_histogram(mapping=aes(x=HomeGoals))
+```{r echo = FALSE}
+home_goal_counts <- as.data.frame(table(results$HomeGoals))
+colnames(home_goal_counts) <- c("Goals", "Frequency")
 
-ggplot(data=results,aes(x=HomeGoals, y=AwayGoals))+
-  geom_boxplot()
-  
-ggplot(data=results,aes(x=Wk,y=HomeGoals))+
-  geom_point()
-```
+ggplot(home_goal_counts, aes(x=Goals, y=Frequency)) + geom_bar(stat="identity") + labs(title = "Frequency of Goals Scored by Home side in EPL", x = "Number of Goals", y = "Frequency") + theme_minimal()
 
-```{r}
-Filtered_results = subset (results, (Home == "Arsenal" | Away == "Arsenal") & Season_End_Year == "2020")
-Filtered_results
-wdl_table <- table(Filtered_results$FTR)
-num_filtered_games <- nrow(Filtered_results)
-
-
-```
-# How many unique teams have played in the Premier League?
-A brief exploration shows that 50 unique teams have played in the Premier League.
-```{r echo=FALSE}
-all_epl_sides <- sort(unique(c(results$Home, results$Away)))
-length(all_epl_sides)
-all_epl_sides
 ```
 

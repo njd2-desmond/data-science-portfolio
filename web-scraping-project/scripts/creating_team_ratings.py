@@ -1,6 +1,5 @@
 import pandas as pd
 results_23_24 = pd.read_csv('web-scraping-project\data\epl-24-25-results-cleaned.csv')
-print(results_23_24)
 
 #Home Record
 home_goals_for = results_23_24.groupby("Home")["HG"].mean().reset_index()
