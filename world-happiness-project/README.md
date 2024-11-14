@@ -1,0 +1,1 @@
+This project is intended to be an exploration of the World Happiness Project and any interesting information in it.
