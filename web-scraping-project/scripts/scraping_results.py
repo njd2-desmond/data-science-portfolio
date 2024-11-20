@@ -7,8 +7,8 @@ sys.stdout.reconfigure(encoding='utf-8')
 #This page takes the Seasons Fixtures from Fbref.com and scrapes them, turning them into a dataset
 
 #Take URL from fbref.com
-url2 = 'https://fbref.com/en/comps/9/schedule/Premier-League-Scores-and-Fixtures'
-#url2 = 'https://fbref.com/en/comps/10/schedule/Championship-Scores-and-Fixtures'
+#url2 = 'https://fbref.com/en/comps/9/schedule/Premier-League-Scores-and-Fixtures'
+url2 = 'https://fbref.com/en/comps/10/schedule/Championship-Scores-and-Fixtures'
 page = requests.get(url2)
 soup = BeautifulSoup(page.text, 'html.parser')
 table = soup.find('table')

@@ -18,10 +18,10 @@ away_gf_ga = pd.merge(away_goals_for,away_goals_aga, on='Team', how='outer')
 
 teams = pd.merge(home_gf_ga,away_gf_ga,on='Team',how='outer')
 
-teams["xG_x"] = round(teams['xG_x'] / 1.2, 2)
-teams["xGA_x"] = round(teams['xGA_x'] / 1, 2)
-teams["xG_y"] = round(teams['xG_y'] / 1.2, 2)
-teams["xGA_y"] = round(teams['xGA_y'] / 1, 2)
+teams["xG_x"] = round(teams['xG_x'], 2)
+teams["xGA_x"] = round(teams['xGA_x'], 2)
+teams["xG_y"] = round(teams['xG_y'], 2)
+teams["xGA_y"] = round(teams['xGA_y'], 2)
 print(teams)
 
 teams.to_csv(r'web-scraping-project\data\team-home-away-ratings.csv',index=False)
