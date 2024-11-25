@@ -1,598 +1,418 @@
-Date,Home,Away,HG,AG
-2024-08-09,Blackburn,Derby County,4,2
-2024-08-09,Preston,Sheffield Utd,0,2
-2024-08-10,Oxford United,Norwich City,2,0
-2024-08-10,Middlesbrough,Swansea City,1,0
-2024-08-10,Hull City,Bristol City,1,1
-2024-08-10,Stoke City,Coventry City,1,0
-2024-08-10,Millwall,Watford,2,3
-2024-08-10,Cardiff City,Sunderland,0,2
-2024-08-10,Leeds United,Portsmouth,3,3
-2024-08-10,QPR,West Brom,1,3
-2024-08-11,Sheffield Weds,Plymouth Argyle,4,0
-2024-08-12,Luton Town,Burnley,1,4
-,,,,
-2024-08-16,Coventry City,Oxford United,3,2
-2024-08-17,West Brom,Leeds United,0,0
-2024-08-17,Derby County,Middlesbrough,1,0
-2024-08-17,Portsmouth,Luton Town,0,0
-2024-08-17,Sheffield Utd,QPR,2,2
-2024-08-17,Norwich City,Blackburn,2,2
-2024-08-17,Watford,Stoke City,3,0
-2024-08-17,Plymouth Argyle,Hull City,1,1
-2024-08-17,Swansea City,Preston,3,0
-2024-08-17,Bristol City,Millwall,4,3
-2024-08-17,Burnley,Cardiff City,5,0
-2024-08-18,Sunderland,Sheffield Weds,4,0
-,,,,
-2024-08-23,Sheffield Weds,Leeds United,0,2
-2024-08-24,Bristol City,Coventry City,1,1
-2024-08-24,QPR,Plymouth Argyle,1,1
-2024-08-24,Hull City,Millwall,0,0
-2024-08-24,Norwich City,Sheffield Utd,1,1
-2024-08-24,Middlesbrough,Portsmouth,2,2
-2024-08-24,Sunderland,Burnley,1,0
-2024-08-24,Watford,Derby County,2,1
-2024-08-24,Preston,Luton Town,1,0
-2024-08-24,Blackburn,Oxford United,2,1
-2024-08-24,Stoke City,West Brom,1,2
-2024-08-25,Swansea City,Cardiff City,1,1
-,,,,
-2024-08-30,Luton Town,QPR,1,2
-2024-08-31,Cardiff City,Middlesbrough,0,2
-2024-08-31,Burnley,Blackburn,1,1
-2024-08-31,Coventry City,Norwich City,0,1
-2024-08-31,Oxford United,Preston,3,1
-2024-08-31,Portsmouth,Sunderland,1,3
-2024-08-31,West Brom,Swansea City,1,0
-2024-08-31,Leeds United,Hull City,2,0
-2024-08-31,Plymouth Argyle,Stoke City,0,1
-2024-08-31,Millwall,Sheffield Weds,3,0
-2024-08-31,Derby County,Bristol City,3,0
-2024-09-01,Sheffield Utd,Watford,1,0
-,,,,
-2024-09-13,Hull City,Sheffield Utd,0,2
-2024-09-14,Leeds United,Burnley,0,1
-2024-09-14,Millwall,Luton Town,0,1
-2024-09-14,Oxford United,Stoke City,1,0
-2024-09-14,Swansea City,Norwich City,1,0
-2024-09-14,Sheffield Weds,QPR,1,1
-2024-09-14,Derby County,Cardiff City,1,0
-2024-09-14,Watford,Coventry City,1,1
-2024-09-14,Plymouth Argyle,Sunderland,3,2
-2024-09-14,Middlesbrough,Preston,1,1
-2024-09-14,Blackburn,Bristol City,3,0
-2024-09-15,Portsmouth,West Brom,0,3
-,,,,
-2024-09-20,Stoke City,Hull City,1,3
-2024-09-21,Sunderland,Middlesbrough,1,0
-2024-09-21,Norwich City,Watford,4,1
-2024-09-21,QPR,Millwall,1,1
-2024-09-21,Bristol City,Oxford United,2,1
-2024-09-21,Luton Town,Sheffield Weds,2,1
-2024-09-21,Cardiff City,Leeds United,0,2
-2024-09-21,Sheffield Utd,Derby County,1,0
-2024-09-21,Coventry City,Swansea City,1,2
-2024-09-21,Burnley,Portsmouth,2,1
-2024-09-21,West Brom,Plymouth Argyle,1,0
-2024-09-22,Preston,Blackburn,0,0
-,,,,
-2024-09-27,Plymouth Argyle,Luton Town,3,1
-2024-09-28,Derby County,Norwich City,2,3
-2024-09-28,Blackburn,QPR,2,0
-2024-09-28,Sheffield Weds,West Brom,3,2
-2024-09-28,Middlesbrough,Stoke City,2,0
-2024-09-28,Watford,Sunderland,2,1
-2024-09-28,Leeds United,Coventry City,3,0
-2024-09-28,Millwall,Preston,3,1
-2024-09-28,Hull City,Cardiff City,4,1
-2024-09-28,Oxford United,Burnley,0,0
-2024-09-28,Portsmouth,Sheffield Utd,0,0
-2024-09-29,Swansea City,Bristol City,1,1
-,,,,
-2024-10-01,Coventry City,Blackburn,3,0
-2024-10-01,Burnley,Plymouth Argyle,1,0
-2024-10-01,Sunderland,Derby County,2,0
-2024-10-01,QPR,Hull City,1,3
-2024-10-01,Norwich City,Leeds United,1,1
-2024-10-01,Cardiff City,Millwall,1,0
-2024-10-01,Luton Town,Oxford United,2,2
-2024-10-01,West Brom,Middlesbrough,0,1
-2024-10-02,Stoke City,Portsmouth,6,1
-2024-10-02,Preston,Watford,3,0
-2024-10-02,Sheffield Utd,Swansea City,1,0
-2024-10-02,Bristol City,Sheffield Weds,0,0
-,,,,
-2024-10-04,Sunderland,Leeds United,2,2
-2024-10-05,Burnley,Preston,0,0
-2024-10-05,Portsmouth,Oxford United,1,1
-2024-10-05,Norwich City,Hull City,4,0
-2024-10-05,Plymouth Argyle,Blackburn,2,1
-2024-10-05,Sheffield Utd,Luton Town,2,0
-2024-10-05,Swansea City,Stoke City,0,0
-2024-10-05,West Brom,Millwall,0,0
-2024-10-05,Coventry City,Sheffield Weds,1,2
-2024-10-05,Watford,Middlesbrough,2,1
-2024-10-05,Derby County,QPR,2,0
-2024-10-06,Bristol City,Cardiff City,1,1
-,,,,
-2024-10-18,Leeds United,Sheffield Utd,2,0
-2024-10-19,Preston,Coventry City,1,0
-2024-10-19,Oxford United,West Brom,1,1
-2024-10-19,Luton Town,Watford,3,0
-2024-10-19,Cardiff City,Plymouth Argyle,5,0
-2024-10-19,Blackburn,Swansea City,1,0
-2024-10-19,Millwall,Derby County,1,1
-2024-10-19,Stoke City,Norwich City,1,1
-2024-10-19,Sheffield Weds,Burnley,0,2
-2024-10-19,QPR,Portsmouth,1,2
-2024-10-19,Middlesbrough,Bristol City,0,2
-2024-10-20,Hull City,Sunderland,0,1
-,,,,
-2024-10-22,Leeds United,Watford,2,1
-2024-10-22,Preston,Norwich City,2,2
-2024-10-22,Sheffield Weds,Swansea City,0,0
-2024-10-22,Cardiff City,Portsmouth,2,0
-2024-10-22,Oxford United,Derby County,1,1
-2024-10-22,Stoke City,Bristol City,2,2
-2024-10-22,QPR,Coventry City,1,1
-2024-10-23,Millwall,Plymouth Argyle,1,0
-2024-10-23,Hull City,Burnley,1,1
-2024-10-23,Luton Town,Sunderland,1,2
-2024-10-23,Blackburn,West Brom,0,0
-2024-10-23,Middlesbrough,Sheffield Utd,1,0
-,,,,
-2024-10-25,Portsmouth,Sheffield Weds,1,2
-2024-10-26,Bristol City,Leeds United,0,0
-2024-10-26,Coventry City,Luton Town,3,2
-2024-10-26,Watford,Blackburn,1,0
-2024-10-26,West Brom,Cardiff City,0,0
-2024-10-26,Swansea City,Millwall,0,1
-2024-10-26,Sheffield Utd,Stoke City,2,0
-2024-10-26,Burnley,QPR,0,0
-2024-10-26,Plymouth Argyle,Preston,3,3
-2024-10-26,Sunderland,Oxford United,2,0
-2024-10-26,Derby County,Hull City,1,1
-2024-10-27,Norwich City,Middlesbrough,3,3
-,,,,
-2024-11-01,Luton Town,West Brom,1,1
-2024-11-02,Oxford United,Swansea City,1,2
-2024-11-02,Stoke City,Derby County,2,1
-2024-11-02,Blackburn,Sheffield Utd,0,2
-2024-11-02,Cardiff City,Norwich City,2,1
-2024-11-02,Sheffield Weds,Watford,2,6
-2024-11-02,Hull City,Portsmouth,1,1
-2024-11-02,Preston,Bristol City,1,3
-2024-11-02,Leeds United,Plymouth Argyle,3,0
-2024-11-02,Middlesbrough,Coventry City,0,3
-2024-11-02,QPR,Sunderland,0,0
-2024-11-03,Millwall,Burnley,1,0
-,,,,
-2024-11-05,Sheffield Weds,Norwich City,2,0
-2024-11-05,Bristol City,Sheffield Utd,1,2
-2024-11-05,Oxford United,Hull City,1,0
-2024-11-05,QPR,Middlesbrough,1,4
-2024-11-05,Swansea City,Watford,1,0
-2024-11-05,Plymouth Argyle,Portsmouth,1,0
-2024-11-06,Coventry City,Derby County,1,2
-2024-11-06,Millwall,Leeds United,1,0
-2024-11-06,Blackburn,Stoke City,0,2
-2024-11-06,Luton Town,Cardiff City,1,0
-2024-11-06,Preston,Sunderland,0,0
-2024-11-07,West Brom,Burnley,0,0
-,,,,
-2024-11-08,Watford,Oxford United,1,0
-2024-11-09,Cardiff City,Blackburn,1,3
-2024-11-09,Stoke City,Millwall,1,1
-2024-11-09,Middlesbrough,Luton Town,5,1
-2024-11-09,Portsmouth,Preston,3,1
-2024-11-09,Leeds United,QPR,2,0
-2024-11-09,Derby County,Plymouth Argyle,1,1
-2024-11-09,Norwich City,Bristol City,0,2
-2024-11-09,Sunderland,Coventry City,2,2
-2024-11-10,Sheffield Utd,Sheffield Weds,1,0
-2024-11-10,Hull City,West Brom,1,2
-2024-11-10,Burnley,Swansea City,1,0
-,,,,
-2024-11-22,Plymouth Argyle,Watford,,
-2024-11-23,Coventry City,Sheffield Utd,,
-2024-11-23,Sheffield Weds,Cardiff City,,
-2024-11-23,Bristol City,Burnley,,
-2024-11-23,Luton Town,Hull City,,
-2024-11-23,Blackburn,Portsmouth,,
-2024-11-23,West Brom,Norwich City,,
-2024-11-23,Millwall,Sunderland,,
-2024-11-23,Preston,Derby County,,
-2024-11-23,Oxford United,Middlesbrough,,
-2024-11-23,QPR,Stoke City,,
-2024-11-24,Swansea City,Leeds United,,
-,,,,
-2024-11-26,Hull City,Sheffield Weds,,
-2024-11-26,Norwich City,Plymouth Argyle,,
-2024-11-26,Watford,Bristol City,,
-2024-11-26,Stoke City,Preston,,
-2024-11-26,Sheffield Utd,Oxford United,,
-2024-11-26,Burnley,Coventry City,,
-2024-11-26,Sunderland,West Brom,,
-2024-11-27,Cardiff City,QPR,,
-2024-11-27,Leeds United,Luton Town,,
-2024-11-27,Portsmouth,Millwall,,
-2024-11-27,Middlesbrough,Blackburn,,
-2024-11-27,Derby County,Swansea City,,
-,,,,
-2024-11-29,Sheffield Utd,Sunderland,,
-2024-11-30,Watford,QPR,,
-2024-11-30,Middlesbrough,Hull City,,
-2024-11-30,Oxford United,Millwall,,
-2024-11-30,Blackburn,Leeds United,,
-2024-11-30,Norwich City,Luton Town,,
-2024-11-30,Stoke City,Burnley,,
-2024-11-30,Coventry City,Cardiff City,,
-2024-11-30,Bristol City,Plymouth Argyle,,
-2024-11-30,Swansea City,Portsmouth,,
-2024-11-30,Preston,West Brom,,
-2024-12-01,Derby County,Sheffield Weds,,
-,,,,
-2024-12-06,Burnley,Middlesbrough,,
-2024-12-07,Sheffield Weds,Preston,,
-2024-12-07,Sunderland,Stoke City,,
-2024-12-07,Leeds United,Derby County,,
-2024-12-07,Luton Town,Swansea City,,
-2024-12-07,Portsmouth,Bristol City,,
-2024-12-07,Plymouth Argyle,Oxford United,,
-2024-12-07,Cardiff City,Watford,,
-2024-12-07,Millwall,Coventry City,,
-2024-12-07,Hull City,Blackburn,,
-2024-12-07,QPR,Norwich City,,
-2024-12-08,West Brom,Sheffield Utd,,
-,,,,
-2024-12-10,Sheffield Weds,Blackburn,,
-2024-12-10,Sunderland,Bristol City,,
-2024-12-10,Burnley,Derby County,,
-2024-12-10,Luton Town,Stoke City,,
-2024-12-10,Portsmouth,Norwich City,,
-2024-12-10,Plymouth Argyle,Swansea City,,
-2024-12-10,Leeds United,Middlesbrough,,
-2024-12-11,Cardiff City,Preston,,
-2024-12-11,Millwall,Sheffield Utd,,
-2024-12-11,QPR,Oxford United,,
-2024-12-11,Hull City,Watford,,
-2024-12-11,West Brom,Coventry City,,
-,,,,
-2024-12-13,Derby County,Portsmouth,,
-2024-12-14,Coventry City,Hull City,,
-2024-12-14,Preston,Leeds United,,
-2024-12-14,Bristol City,QPR,,
-2024-12-14,Sheffield Utd,Plymouth Argyle,,
-2024-12-14,Blackburn,Luton Town,,
-2024-12-14,Swansea City,Sunderland,,
-2024-12-14,Stoke City,Cardiff City,,
-2024-12-14,Middlesbrough,Millwall,,
-2024-12-14,Oxford United,Sheffield Weds,,
-2024-12-15,Watford,West Brom,,
-2024-12-15,Norwich City,Burnley,,
-,,,,
-2024-12-20,Luton Town,Derby County,,
-2024-12-21,Sheffield Weds,Stoke City,,
-2024-12-21,Portsmouth,Coventry City,,
-2024-12-21,Hull City,Swansea City,,
-2024-12-21,Leeds United,Oxford United,,
-2024-12-21,Cardiff City,Sheffield Utd,,
-2024-12-21,Plymouth Argyle,Middlesbrough,,
-2024-12-21,Sunderland,Norwich City,,
-2024-12-21,Burnley,Watford,,
-2024-12-21,Millwall,Blackburn,,
-2024-12-21,QPR,Preston,,
-2024-12-22,West Brom,Bristol City,,
-,,,,
-2024-12-26,Oxford United,Cardiff City,,
-2024-12-26,Watford,Portsmouth,,
-2024-12-26,Coventry City,Plymouth Argyle,,
-2024-12-26,Bristol City,Luton Town,,
-2024-12-26,Sheffield Utd,Burnley,,
-2024-12-26,Norwich City,Millwall,,
-2024-12-26,Middlesbrough,Sheffield Weds,,
-2024-12-26,Blackburn,Sunderland,,
-2024-12-26,Preston,Hull City,,
-2024-12-26,Swansea City,QPR,,
-2024-12-26,Derby County,West Brom,,
-2024-12-26,Stoke City,Leeds United,,
-,,,,
-2024-12-29,Preston,Sheffield Weds,,
-2024-12-29,Sheffield Utd,West Brom,,
-2024-12-29,Norwich City,QPR,,
-2024-12-29,Coventry City,Millwall,,
-2024-12-29,Swansea City,Luton Town,,
-2024-12-29,Watford,Cardiff City,,
-2024-12-29,Oxford United,Plymouth Argyle,,
-2024-12-29,Blackburn,Hull City,,
-2024-12-29,Stoke City,Sunderland,,
-2024-12-29,Bristol City,Portsmouth,,
-2024-12-29,Derby County,Leeds United,,
-2024-12-29,Middlesbrough,Burnley,,
-,,,,
-2025-01-01,QPR,Watford,,
-2025-01-01,Plymouth Argyle,Bristol City,,
-2025-01-01,Millwall,Oxford United,,
-2025-01-01,West Brom,Preston,,
-2025-01-01,Portsmouth,Swansea City,,
-2025-01-01,Leeds United,Blackburn,,
-2025-01-01,Cardiff City,Coventry City,,
-2025-01-01,Luton Town,Norwich City,,
-2025-01-01,Burnley,Stoke City,,
-2025-01-01,Sheffield Weds,Derby County,,
-2025-01-01,Hull City,Middlesbrough,,
-2025-01-01,Sunderland,Sheffield Utd,,
-,,,,
-2025-01-04,Blackburn,Burnley,,
-2025-01-04,Stoke City,Plymouth Argyle,,
-2025-01-04,Swansea City,West Brom,,
-2025-01-04,Hull City,Leeds United,,
-2025-01-04,Watford,Sheffield Utd,,
-2025-01-04,Sheffield Weds,Millwall,,
-2025-01-04,Norwich City,Coventry City,,
-2025-01-04,Middlesbrough,Cardiff City,,
-2025-01-04,Bristol City,Derby County,,
-2025-01-04,Preston,Oxford United,,
-2025-01-05,Sunderland,Portsmouth,,
-2025-01-06,QPR,Luton Town,,
-,,,,
-2025-01-17,Burnley,Sunderland,,
-2025-01-18,Millwall,Hull City,,
-2025-01-18,Plymouth Argyle,QPR,,
-2025-01-18,Cardiff City,Swansea City,,
-2025-01-18,Luton Town,Preston,,
-2025-01-18,Portsmouth,Middlesbrough,,
-2025-01-18,Sheffield Utd,Norwich City,,
-2025-01-18,Coventry City,Bristol City,,
-2025-01-18,Derby County,Watford,,
-2025-01-18,Oxford United,Blackburn,,
-2025-01-18,West Brom,Stoke City,,
-2025-01-19,Leeds United,Sheffield Weds,,
-,,,,
-2025-01-21,Swansea City,Sheffield Utd,,
-2025-01-21,Blackburn,Coventry City,,
-2025-01-21,Oxford United,Luton Town,,
-2025-01-21,Derby County,Sunderland,,
-2025-01-21,Watford,Preston,,
-2025-01-21,Hull City,QPR,,
-2025-01-21,Middlesbrough,West Brom,,
-2025-01-21,Millwall,Cardiff City,,
-2025-01-22,Sheffield Weds,Bristol City,,
-2025-01-22,Portsmouth,Stoke City,,
-2025-01-22,Leeds United,Norwich City,,
-2025-01-22,Plymouth Argyle,Burnley,,
-,,,,
-2025-01-24,Sheffield Utd,Hull City,,
-2025-01-25,Stoke City,Oxford United,,
-2025-01-25,Luton Town,Millwall,,
-2025-01-25,Norwich City,Swansea City,,
-2025-01-25,Coventry City,Watford,,
-2025-01-25,West Brom,Portsmouth,,
-2025-01-25,QPR,Sheffield Weds,,
-2025-01-25,Cardiff City,Derby County,,
-2025-01-25,Bristol City,Blackburn,,
-2025-01-25,Preston,Middlesbrough,,
-2025-01-25,Sunderland,Plymouth Argyle,,
-2025-01-27,Burnley,Leeds United,,
-,,,,
-2025-01-31,Blackburn,Preston,,
-2025-02-01,Plymouth Argyle,West Brom,,
-2025-02-01,Oxford United,Bristol City,,
-2025-02-01,Watford,Norwich City,,
-2025-02-01,Leeds United,Cardiff City,,
-2025-02-01,Portsmouth,Burnley,,
-2025-02-01,Sheffield Weds,Luton Town,,
-2025-02-01,Derby County,Sheffield Utd,,
-2025-02-01,Swansea City,Coventry City,,
-2025-02-01,Hull City,Stoke City,,
-2025-02-01,Millwall,QPR,,
-2025-02-03,Middlesbrough,Sunderland,,
-,,,,
-2025-02-07,Stoke City,Middlesbrough,,
-2025-02-08,West Brom,Sheffield Weds,,
-2025-02-08,Sunderland,Watford,,
-2025-02-08,QPR,Blackburn,,
-2025-02-08,Norwich City,Derby County,,
-2025-02-08,Coventry City,Leeds United,,
-2025-02-08,Preston,Millwall,,
-2025-02-08,Luton Town,Plymouth Argyle,,
-2025-02-08,Cardiff City,Hull City,,
-2025-02-08,Burnley,Oxford United,,
-2025-02-08,Sheffield Utd,Portsmouth,,
-2025-02-09,Bristol City,Swansea City,,
-,,,,
-2025-02-11,Portsmouth,Cardiff City,,
-2025-02-11,Plymouth Argyle,Millwall,,
-2025-02-11,Watford,Leeds United,,
-2025-02-11,Bristol City,Stoke City,,
-2025-02-11,Swansea City,Sheffield Weds,,
-2025-02-11,Coventry City,QPR,,
-2025-02-11,Derby County,Oxford United,,
-2025-02-11,Norwich City,Preston,,
-2025-02-12,Sunderland,Luton Town,,
-2025-02-12,Burnley,Hull City,,
-2025-02-12,Sheffield Utd,Middlesbrough,,
-2025-02-12,West Brom,Blackburn,,
-,,,,
-2025-02-14,QPR,Derby County,,
-2025-02-15,Preston,Burnley,,
-2025-02-15,Cardiff City,Bristol City,,
-2025-02-15,Oxford United,Portsmouth,,
-2025-02-15,Hull City,Norwich City,,
-2025-02-15,Millwall,West Brom,,
-2025-02-15,Sheffield Weds,Coventry City,,
-2025-02-15,Blackburn,Plymouth Argyle,,
-2025-02-15,Middlesbrough,Watford,,
-2025-02-15,Luton Town,Sheffield Utd,,
-2025-02-15,Stoke City,Swansea City,,
-2025-02-17,Leeds United,Sunderland,,
-,,,,
-2025-02-21,Bristol City,Middlesbrough,,
-2025-02-21,Burnley,Sheffield Weds,,
-2025-02-22,Sunderland,Hull City,,
-2025-02-22,Derby County,Millwall,,
-2025-02-22,Plymouth Argyle,Cardiff City,,
-2025-02-22,Portsmouth,QPR,,
-2025-02-22,Watford,Luton Town,,
-2025-02-22,Coventry City,Preston,,
-2025-02-22,Swansea City,Blackburn,,
-2025-02-22,West Brom,Oxford United,,
-2025-02-22,Norwich City,Stoke City,,
-2025-02-24,Sheffield Utd,Leeds United,,
-,,,,
-2025-03-01,Sheffield Weds,Sunderland,,
-2025-03-01,Stoke City,Watford,,
-2025-03-01,Luton Town,Portsmouth,,
-2025-03-01,Middlesbrough,Derby County,,
-2025-03-01,Blackburn,Norwich City,,
-2025-03-01,Millwall,Bristol City,,
-2025-03-01,Leeds United,West Brom,,
-2025-03-01,Oxford United,Coventry City,,
-2025-03-01,QPR,Sheffield Utd,,
-2025-03-01,Preston,Swansea City,,
-2025-03-01,Hull City,Plymouth Argyle,,
-2025-03-01,Cardiff City,Burnley,,
-,,,,
-2025-03-08,Watford,Millwall,,
-2025-03-08,West Brom,QPR,,
-2025-03-08,Bristol City,Hull City,,
-2025-03-08,Burnley,Luton Town,,
-2025-03-08,Portsmouth,Leeds United,,
-2025-03-08,Swansea City,Middlesbrough,,
-2025-03-08,Sunderland,Cardiff City,,
-2025-03-08,Coventry City,Stoke City,,
-2025-03-08,Sheffield Utd,Preston,,
-2025-03-08,Derby County,Blackburn,,
-2025-03-08,Plymouth Argyle,Sheffield Weds,,
-2025-03-08,Norwich City,Oxford United,,
-,,,,
-2025-03-11,Burnley,West Brom,,
-2025-03-11,Stoke City,Blackburn,,
-2025-03-11,Portsmouth,Plymouth Argyle,,
-2025-03-11,Cardiff City,Luton Town,,
-2025-03-11,Derby County,Coventry City,,
-2025-03-11,Middlesbrough,QPR,,
-2025-03-11,Sunderland,Preston,,
-2025-03-12,Watford,Swansea City,,
-2025-03-12,Norwich City,Sheffield Weds,,
-2025-03-12,Sheffield Utd,Bristol City,,
-2025-03-12,Hull City,Oxford United,,
-2025-03-12,Leeds United,Millwall,,
-,,,,
-2025-03-15,Swansea City,Burnley,,
-2025-03-15,Plymouth Argyle,Derby County,,
-2025-03-15,Oxford United,Watford,,
-2025-03-15,Millwall,Stoke City,,
-2025-03-15,Bristol City,Norwich City,,
-2025-03-15,Sheffield Weds,Sheffield Utd,,
-2025-03-15,QPR,Leeds United,,
-2025-03-15,Coventry City,Sunderland,,
-2025-03-15,Blackburn,Cardiff City,,
-2025-03-15,West Brom,Hull City,,
-2025-03-15,Luton Town,Middlesbrough,,
-2025-03-15,Preston,Portsmouth,,
-,,,,
-2025-03-29,Cardiff City,Sheffield Weds,,
-2025-03-29,Watford,Plymouth Argyle,,
-2025-03-29,Sheffield Utd,Coventry City,,
-2025-03-29,Leeds United,Swansea City,,
-2025-03-29,Portsmouth,Blackburn,,
-2025-03-29,Sunderland,Millwall,,
-2025-03-29,Middlesbrough,Oxford United,,
-2025-03-29,Burnley,Bristol City,,
-2025-03-29,Norwich City,West Brom,,
-2025-03-29,Stoke City,QPR,,
-2025-03-29,Derby County,Preston,,
-2025-03-29,Hull City,Luton Town,,
-,,,,
-2025-04-05,Luton Town,Leeds United,,
-2025-04-05,QPR,Cardiff City,,
-2025-04-05,Plymouth Argyle,Norwich City,,
-2025-04-05,Millwall,Portsmouth,,
-2025-04-05,Swansea City,Derby County,,
-2025-04-05,Bristol City,Watford,,
-2025-04-05,West Brom,Sunderland,,
-2025-04-05,Blackburn,Middlesbrough,,
-2025-04-05,Coventry City,Burnley,,
-2025-04-05,Sheffield Weds,Hull City,,
-2025-04-05,Oxford United,Sheffield Utd,,
-2025-04-05,Preston,Stoke City,,
-,,,,
-2025-04-08,Stoke City,Luton Town,,
-2025-04-08,Preston,Cardiff City,,
-2025-04-08,Norwich City,Sunderland,,
-2025-04-08,Watford,Hull City,,
-2025-04-08,Middlesbrough,Leeds United,,
-2025-04-08,Sheffield Utd,Millwall,,
-2025-04-08,Bristol City,West Brom,,
-2025-04-08,Blackburn,Sheffield Weds,,
-2025-04-09,Oxford United,QPR,,
-2025-04-09,Swansea City,Plymouth Argyle,,
-2025-04-09,Derby County,Burnley,,
-2025-04-09,Coventry City,Portsmouth,,
-,,,,
-2025-04-12,Plymouth Argyle,Sheffield Utd,,
-2025-04-12,Millwall,Middlesbrough,,
-2025-04-12,Leeds United,Preston,,
-2025-04-12,Sunderland,Swansea City,,
-2025-04-12,Cardiff City,Stoke City,,
-2025-04-12,Sheffield Weds,Oxford United,,
-2025-04-12,West Brom,Watford,,
-2025-04-12,Burnley,Norwich City,,
-2025-04-12,Luton Town,Blackburn,,
-2025-04-12,QPR,Bristol City,,
-2025-04-12,Hull City,Coventry City,,
-2025-04-12,Portsmouth,Derby County,,
-,,,,
-2025-04-18,Bristol City,Sunderland,,
-2025-04-18,Preston,QPR,,
-2025-04-18,Coventry City,West Brom,,
-2025-04-18,Sheffield Utd,Cardiff City,,
-2025-04-18,Middlesbrough,Plymouth Argyle,,
-2025-04-18,Watford,Burnley,,
-2025-04-18,Oxford United,Leeds United,,
-2025-04-18,Norwich City,Portsmouth,,
-2025-04-18,Derby County,Luton Town,,
-2025-04-18,Blackburn,Millwall,,
-2025-04-18,Stoke City,Sheffield Weds,,
-2025-04-18,Swansea City,Hull City,,
-,,,,
-2025-04-21,Luton Town,Bristol City,,
-2025-04-21,Burnley,Sheffield Utd,,
-2025-04-21,Millwall,Norwich City,,
-2025-04-21,Portsmouth,Watford,,
-2025-04-21,Cardiff City,Oxford United,,
-2025-04-21,Leeds United,Stoke City,,
-2025-04-21,West Brom,Derby County,,
-2025-04-21,Hull City,Preston,,
-2025-04-21,QPR,Swansea City,,
-2025-04-21,Sunderland,Blackburn,,
-2025-04-21,Sheffield Weds,Middlesbrough,,
-2025-04-21,Plymouth Argyle,Coventry City,,
-,,,,
-2025-04-26,Stoke City,Sheffield Utd,,
-2025-04-26,Hull City,Derby County,,
-2025-04-26,QPR,Burnley,,
-2025-04-26,Oxford United,Sunderland,,
-2025-04-26,Blackburn,Watford,,
-2025-04-26,Preston,Plymouth Argyle,,
-2025-04-26,Sheffield Weds,Portsmouth,,
-2025-04-26,Leeds United,Bristol City,,
-2025-04-26,Middlesbrough,Norwich City,,
-2025-04-26,Cardiff City,West Brom,,
-2025-04-26,Luton Town,Coventry City,,
-2025-04-26,Millwall,Swansea City,,
-,,,,
-2025-05-03,Portsmouth,Hull City,,
-2025-05-03,Watford,Sheffield Weds,,
-2025-05-03,Sunderland,QPR,,
-2025-05-03,Plymouth Argyle,Leeds United,,
-2025-05-03,Sheffield Utd,Blackburn,,
-2025-05-03,Derby County,Stoke City,,
-2025-05-03,Bristol City,Preston,,
-2025-05-03,Coventry City,Middlesbrough,,
-2025-05-03,Norwich City,Cardiff City,,
-2025-05-03,Swansea City,Oxford United,,
-2025-05-03,West Brom,Luton Town,,
-2025-05-03,Burnley,Millwall,,
+Date,Home,HxG,AxG,Away,HG,AG
+2024-08-16,Manchester Utd,2.4,0.4,Fulham,1,0
+2024-08-17,Ipswich Town,0.5,2.6,Liverpool,0,2
+2024-08-17,Newcastle Utd,0.3,1.8,Southampton,1,0
+2024-08-17,Nott'ham Forest,1.3,1.2,Bournemouth,1,1
+2024-08-17,Everton,0.5,1.4,Brighton,0,3
+2024-08-17,Arsenal,1.2,0.5,Wolves,2,0
+2024-08-17,West Ham,2.3,2.0,Aston Villa,1,2
+2024-08-18,Brentford,1.6,1.2,Crystal Palace,2,1
+2024-08-18,Chelsea,1.0,0.8,Manchester City,0,2
+2024-08-19,Leicester City,1.0,1.2,Tottenham,1,1
+,,,,,,
+2024-08-24,Brighton,2.1,1.4,Manchester Utd,2,1
+2024-08-24,Tottenham,2.4,1.0,Everton,4,0
+2024-08-24,Fulham,1.8,0.6,Leicester City,2,1
+2024-08-24,Crystal Palace,1.3,1.4,West Ham,0,2
+2024-08-24,Manchester City,3.3,0.3,Ipswich Town,4,1
+2024-08-24,Southampton,0.1,2.2,Nott'ham Forest,0,1
+2024-08-24,Aston Villa,1.2,0.9,Arsenal,0,2
+2024-08-25,Bournemouth,2.2,1.6,Newcastle Utd,1,1
+2024-08-25,Wolves,1.9,1.6,Chelsea,2,6
+2024-08-25,Liverpool,2.5,0.5,Brentford,2,0
+,,,,,,
+2024-08-31,Arsenal,2.1,1.7,Brighton,1,1
+2024-08-31,Everton,1.8,2.4,Bournemouth,2,3
+2024-08-31,Leicester City,0.4,1.4,Aston Villa,1,2
+2024-08-31,Nott'ham Forest,1.0,0.7,Wolves,1,1
+2024-08-31,Ipswich Town,0.4,0.9,Fulham,1,1
+2024-08-31,Brentford,2.8,1.5,Southampton,3,1
+2024-08-31,West Ham,0.7,3.0,Manchester City,1,3
+2024-09-01,Newcastle Utd,1.8,1.2,Tottenham,2,1
+2024-09-01,Chelsea,2.4,0.5,Crystal Palace,1,1
+2024-09-01,Manchester Utd,1.4,1.8,Liverpool,0,3
+,,,,,,
+2024-09-14,Southampton,1.1,2.6,Manchester Utd,0,3
+2024-09-14,Brighton,1.6,0.3,Ipswich Town,0,0
+2024-09-14,Crystal Palace,2.5,1.2,Leicester City,2,2
+2024-09-14,Manchester City,2.1,1.0,Brentford,2,1
+2024-09-14,Liverpool,0.9,0.4,Nott'ham Forest,0,1
+2024-09-14,Fulham,1.5,0.8,West Ham,1,1
+2024-09-14,Aston Villa,2.1,0.9,Everton,3,2
+2024-09-14,Bournemouth,1.7,0.8,Chelsea,0,1
+2024-09-15,Tottenham,0.7,0.7,Arsenal,0,1
+2024-09-15,Wolves,1.2,1.5,Newcastle Utd,1,2
+,,,,,,
+2024-09-21,West Ham,0.9,2.2,Chelsea,0,3
+2024-09-21,Liverpool,2.0,1.1,Bournemouth,3,0
+2024-09-21,Leicester City,0.7,1.1,Everton,1,1
+2024-09-21,Southampton,2.4,1.6,Ipswich Town,1,1
+2024-09-21,Tottenham,3.5,0.8,Brentford,3,1
+2024-09-21,Fulham,2.2,1.5,Newcastle Utd,3,1
+2024-09-21,Aston Villa,1.7,0.5,Wolves,3,1
+2024-09-21,Crystal Palace,1.0,1.6,Manchester Utd,0,0
+2024-09-22,Brighton,1.0,1.4,Nott'ham Forest,2,2
+2024-09-22,Manchester City,2.1,0.7,Arsenal,2,2
+,,,,,,
+2024-09-28,Newcastle Utd,1.6,0.9,Manchester City,1,1
+2024-09-28,Chelsea,4.2,1.1,Brighton,4,2
+2024-09-28,Arsenal,4.4,0.3,Leicester City,4,2
+2024-09-28,Brentford,0.4,1.0,West Ham,1,1
+2024-09-28,Everton,0.9,0.9,Crystal Palace,2,1
+2024-09-28,Nott'ham Forest,0.8,1.3,Fulham,0,1
+2024-09-28,Wolves,0.6,2.5,Liverpool,1,2
+2024-09-29,Ipswich Town,1.2,0.8,Aston Villa,2,2
+2024-09-29,Manchester Utd,1.0,4.4,Tottenham,0,3
+2024-09-30,Bournemouth,1.3,0.6,Southampton,3,1
+,,,,,,
+2024-10-05,Crystal Palace,0.6,1.4,Liverpool,0,1
+2024-10-05,Manchester City,1.6,2.6,Fulham,3,2
+2024-10-05,Brentford,4.2,1.0,Wolves,5,3
+2024-10-05,West Ham,3.6,0.6,Ipswich Town,4,1
+2024-10-05,Arsenal,2.8,0.6,Southampton,3,1
+2024-10-05,Leicester City,0.8,2.1,Bournemouth,1,0
+2024-10-05,Everton,0.7,2.1,Newcastle Utd,0,0
+2024-10-06,Aston Villa,0.5,0.6,Manchester Utd,0,0
+2024-10-06,Chelsea,2.3,0.9,Nott'ham Forest,1,1
+2024-10-06,Brighton,1.8,1.3,Tottenham,3,2
+,,,,,,
+2024-10-19,Tottenham,1.9,0.8,West Ham,4,1
+2024-10-19,Southampton,2.1,3.1,Leicester City,2,3
+2024-10-19,Ipswich Town,1.3,1.7,Everton,0,2
+2024-10-19,Newcastle Utd,2.0,1.1,Brighton,0,1
+2024-10-19,Fulham,1.8,1.6,Aston Villa,1,3
+2024-10-19,Manchester Utd,1.3,0.9,Brentford,2,1
+2024-10-19,Bournemouth,1.8,0.7,Arsenal,2,0
+2024-10-20,Wolves,0.8,1.6,Manchester City,1,2
+2024-10-20,Liverpool,1.9,1.0,Chelsea,2,1
+2024-10-21,Nott'ham Forest,1.7,1.0,Crystal Palace,1,0
+,,,,,,
+2024-10-25,Leicester City,0.8,1.7,Nott'ham Forest,1,3
+2024-10-26,Brentford,4.0,1.3,Ipswich Town,4,3
+2024-10-26,Brighton,1.3,1.3,Wolves,2,2
+2024-10-26,Manchester City,2.9,0.2,Southampton,1,0
+2024-10-26,Aston Villa,1.8,0.3,Bournemouth,1,1
+2024-10-26,Everton,0.8,1.2,Fulham,1,1
+2024-10-27,Chelsea,1.6,1.8,Newcastle Utd,2,1
+2024-10-27,West Ham,2.8,2.3,Manchester Utd,2,1
+2024-10-27,Crystal Palace,0.8,0.7,Tottenham,1,0
+2024-10-27,Arsenal,0.9,0.8,Liverpool,2,2
+,,,,,,
+2024-11-02,Newcastle Utd,0.5,1.1,Arsenal,1,0
+2024-11-02,Southampton,0.7,1.6,Everton,1,0
+2024-11-02,Liverpool,1.6,1.0,Brighton,2,1
+2024-11-02,Nott'ham Forest,2.2,0.1,West Ham,3,0
+2024-11-02,Ipswich Town,1.0,1.5,Leicester City,1,1
+2024-11-02,Bournemouth,2.0,1.6,Manchester City,2,1
+2024-11-02,Wolves,1.5,2.4,Crystal Palace,2,2
+2024-11-03,Tottenham,2.4,1.8,Aston Villa,4,1
+2024-11-03,Manchester Utd,2.0,1.1,Chelsea,1,1
+2024-11-04,Fulham,1.3,0.6,Brentford,2,1
+,,,,,,
+2024-11-09,Brentford,1.5,2.6,Bournemouth,3,2
+2024-11-09,West Ham,0.8,1.1,Everton,0,0
+2024-11-09,Crystal Palace,1.5,1.8,Fulham,0,2
+2024-11-09,Wolves,1.3,0.6,Southampton,2,0
+2024-11-09,Brighton,2.3,2.1,Manchester City,2,1
+2024-11-09,Liverpool,2.0,1.2,Aston Villa,2,0
+2024-11-10,Manchester Utd,0.8,0.6,Leicester City,3,0
+2024-11-10,Nott'ham Forest,0.6,1.6,Newcastle Utd,1,3
+2024-11-10,Tottenham,1.5,1.6,Ipswich Town,1,2
+2024-11-10,Chelsea,1.5,1.5,Arsenal,1,1
+,,,,,,
+2024-11-23,Leicester City,1.1,2.7,Chelsea,1,2
+2024-11-23,Arsenal,1.2,0.3,Nott'ham Forest,3,0
+2024-11-23,Bournemouth,1.6,0.9,Brighton,1,2
+2024-11-23,Aston Villa,3.0,1.3,Crystal Palace,2,2
+2024-11-23,Everton,1.2,1.1,Brentford,0,0
+2024-11-23,Fulham,1.0,1.3,Wolves,1,4
+2024-11-23,Manchester City,2.1,2.5,Tottenham,0,4
+2024-11-24,Southampton,1.3,3.1,Liverpool,2,3
+2024-11-24,Ipswich Town,1.7,0.9,Manchester Utd,1,1
+2024-11-25,Newcastle Utd,,,West Ham,,
+,,,,,,
+2024-11-29,Brighton,,,Southampton,,
+2024-11-30,Crystal Palace,,,Newcastle Utd,,
+2024-11-30,Wolves,,,Bournemouth,,
+2024-11-30,Nott'ham Forest,,,Ipswich Town,,
+2024-11-30,Brentford,,,Leicester City,,
+2024-11-30,West Ham,,,Arsenal,,
+2024-12-01,Chelsea,,,Aston Villa,,
+2024-12-01,Tottenham,,,Fulham,,
+2024-12-01,Manchester Utd,,,Everton,,
+2024-12-01,Liverpool,,,Manchester City,,
+,,,,,,
+2024-12-03,Ipswich Town,,,Crystal Palace,,
+2024-12-03,Leicester City,,,West Ham,,
+2024-12-04,Everton,,,Wolves,,
+2024-12-04,Newcastle Utd,,,Liverpool,,
+2024-12-04,Manchester City,,,Nott'ham Forest,,
+2024-12-04,Southampton,,,Chelsea,,
+2024-12-04,Arsenal,,,Manchester Utd,,
+2024-12-04,Aston Villa,,,Brentford,,
+2024-12-05,Fulham,,,Brighton,,
+2024-12-05,Bournemouth,,,Tottenham,,
+,,,,,,
+2024-12-07,Everton,,,Liverpool,,
+2024-12-07,Brentford,,,Newcastle Utd,,
+2024-12-07,Crystal Palace,,,Manchester City,,
+2024-12-07,Aston Villa,,,Southampton,,
+2024-12-07,Manchester Utd,,,Nott'ham Forest,,
+2024-12-08,Fulham,,,Arsenal,,
+2024-12-08,Ipswich Town,,,Bournemouth,,
+2024-12-08,Leicester City,,,Brighton,,
+2024-12-08,Tottenham,,,Chelsea,,
+2024-12-09,West Ham,,,Wolves,,
+,,,,,,
+2024-12-14,Newcastle Utd,,,Leicester City,,
+2024-12-14,Arsenal,,,Everton,,
+2024-12-14,Wolves,,,Ipswich Town,,
+2024-12-14,Liverpool,,,Fulham,,
+2024-12-14,Nott'ham Forest,,,Aston Villa,,
+2024-12-15,Brighton,,,Crystal Palace,,
+2024-12-15,Manchester City,,,Manchester Utd,,
+2024-12-15,Southampton,,,Tottenham,,
+2024-12-15,Chelsea,,,Brentford,,
+2024-12-16,Bournemouth,,,West Ham,,
+,,,,,,
+2024-12-21,Aston Villa,,,Manchester City,,
+2024-12-21,West Ham,,,Brighton,,
+2024-12-21,Brentford,,,Nott'ham Forest,,
+2024-12-21,Ipswich Town,,,Newcastle Utd,,
+2024-12-21,Crystal Palace,,,Arsenal,,
+2024-12-22,Manchester Utd,,,Bournemouth,,
+2024-12-22,Fulham,,,Southampton,,
+2024-12-22,Everton,,,Chelsea,,
+2024-12-22,Leicester City,,,Wolves,,
+2024-12-22,Tottenham,,,Liverpool,,
+,,,,,,
+2024-12-26,Manchester City,,,Everton,,
+2024-12-26,Chelsea,,,Fulham,,
+2024-12-26,Southampton,,,West Ham,,
+2024-12-26,Bournemouth,,,Crystal Palace,,
+2024-12-26,Newcastle Utd,,,Aston Villa,,
+2024-12-26,Nott'ham Forest,,,Tottenham,,
+2024-12-26,Wolves,,,Manchester Utd,,
+2024-12-26,Liverpool,,,Leicester City,,
+2024-12-27,Brighton,,,Brentford,,
+2024-12-27,Arsenal,,,Ipswich Town,,
+,,,,,,
+2024-12-29,Leicester City,,,Manchester City,,
+2024-12-29,Tottenham,,,Wolves,,
+2024-12-29,Fulham,,,Bournemouth,,
+2024-12-29,Everton,,,Nott'ham Forest,,
+2024-12-29,Crystal Palace,,,Southampton,,
+2024-12-29,West Ham,,,Liverpool,,
+2024-12-30,Aston Villa,,,Brighton,,
+2024-12-30,Ipswich Town,,,Chelsea,,
+2024-12-30,Manchester Utd,,,Newcastle Utd,,
+2025-01-01,Brentford,,,Arsenal,,
+,,,,,,
+2025-01-04,Tottenham,,,Newcastle Utd,,
+2025-01-04,Southampton,,,Brentford,,
+2025-01-04,Bournemouth,,,Everton,,
+2025-01-04,Crystal Palace,,,Chelsea,,
+2025-01-04,Manchester City,,,West Ham,,
+2025-01-04,Aston Villa,,,Leicester City,,
+2025-01-04,Brighton,,,Arsenal,,
+2025-01-05,Fulham,,,Ipswich Town,,
+2025-01-05,Liverpool,,,Manchester Utd,,
+2025-01-06,Wolves,,,Nott'ham Forest,,
+,,,,,,
+2025-01-14,Brentford,,,Manchester City,,
+2025-01-14,West Ham,,,Fulham,,
+2025-01-14,Chelsea,,,Bournemouth,,
+2025-01-14,Nott'ham Forest,,,Liverpool,,
+2025-01-15,Everton,,,Aston Villa,,
+2025-01-15,Newcastle Utd,,,Wolves,,
+2025-01-15,Leicester City,,,Crystal Palace,,
+2025-01-15,Arsenal,,,Tottenham,,
+2025-01-16,Ipswich Town,,,Brighton,,
+2025-01-16,Manchester Utd,,,Southampton,,
+,,,,,,
+2025-01-18,Newcastle Utd,,,Bournemouth,,
+2025-01-18,West Ham,,,Crystal Palace,,
+2025-01-18,Brentford,,,Liverpool,,
+2025-01-18,Leicester City,,,Fulham,,
+2025-01-18,Arsenal,,,Aston Villa,,
+2025-01-19,Manchester Utd,,,Brighton,,
+2025-01-19,Nott'ham Forest,,,Southampton,,
+2025-01-19,Everton,,,Tottenham,,
+2025-01-19,Ipswich Town,,,Manchester City,,
+2025-01-20,Chelsea,,,Wolves,,
+,,,,,,
+2025-01-25,Wolves,,,Arsenal,,
+2025-01-25,Southampton,,,Newcastle Utd,,
+2025-01-25,Brighton,,,Everton,,
+2025-01-25,Liverpool,,,Ipswich Town,,
+2025-01-25,Bournemouth,,,Nott'ham Forest,,
+2025-01-25,Manchester City,,,Chelsea,,
+2025-01-26,Crystal Palace,,,Brentford,,
+2025-01-26,Tottenham,,,Leicester City,,
+2025-01-26,Aston Villa,,,West Ham,,
+2025-01-26,Fulham,,,Manchester Utd,,
+,,,,,,
+2025-02-01,Ipswich Town,,,Southampton,,
+2025-02-01,Arsenal,,,Manchester City,,
+2025-02-01,Everton,,,Leicester City,,
+2025-02-01,Newcastle Utd,,,Fulham,,
+2025-02-01,Wolves,,,Aston Villa,,
+2025-02-01,Brentford,,,Tottenham,,
+2025-02-01,Manchester Utd,,,Crystal Palace,,
+2025-02-01,Bournemouth,,,Liverpool,,
+2025-02-01,Nott'ham Forest,,,Brighton,,
+2025-02-01,Chelsea,,,West Ham,,
+,,,,,,
+2025-02-15,Aston Villa,,,Ipswich Town,,
+2025-02-15,Tottenham,,,Manchester Utd,,
+2025-02-15,Crystal Palace,,,Everton,,
+2025-02-15,Fulham,,,Nott'ham Forest,,
+2025-02-15,Liverpool,,,Wolves,,
+2025-02-15,West Ham,,,Brentford,,
+2025-02-15,Manchester City,,,Newcastle Utd,,
+2025-02-15,Leicester City,,,Arsenal,,
+2025-02-15,Southampton,,,Bournemouth,,
+2025-02-15,Brighton,,,Chelsea,,
+,,,,,,
+2025-02-22,Aston Villa,,,Chelsea,,
+2025-02-22,Fulham,,,Crystal Palace,,
+2025-02-22,Ipswich Town,,,Tottenham,,
+2025-02-22,Newcastle Utd,,,Nott'ham Forest,,
+2025-02-22,Bournemouth,,,Wolves,,
+2025-02-22,Leicester City,,,Brentford,,
+2025-02-22,Arsenal,,,West Ham,,
+2025-02-22,Manchester City,,,Liverpool,,
+2025-02-22,Everton,,,Manchester Utd,,
+2025-02-22,Southampton,,,Brighton,,
+,,,,,,
+2025-02-25,West Ham,,,Leicester City,,
+2025-02-25,Brentford,,,Everton,,
+2025-02-25,Tottenham,,,Manchester City,,
+2025-02-25,Wolves,,,Fulham,,
+2025-02-25,Nott'ham Forest,,,Arsenal,,
+2025-02-25,Brighton,,,Bournemouth,,
+2025-02-25,Crystal Palace,,,Aston Villa,,
+2025-02-26,Chelsea,,,Southampton,,
+2025-02-26,Liverpool,,,Newcastle Utd,,
+2025-02-26,Manchester Utd,,,Ipswich Town,,
+,,,,,,
+2025-03-08,Liverpool,,,Southampton,,
+2025-03-08,Chelsea,,,Leicester City,,
+2025-03-08,Wolves,,,Everton,,
+2025-03-08,West Ham,,,Newcastle Utd,,
+2025-03-08,Tottenham,,,Bournemouth,,
+2025-03-08,Manchester Utd,,,Arsenal,,
+2025-03-08,Crystal Palace,,,Ipswich Town,,
+2025-03-08,Nott'ham Forest,,,Manchester City,,
+2025-03-08,Brighton,,,Fulham,,
+2025-03-08,Brentford,,,Aston Villa,,
+,,,,,,
+2025-03-15,Arsenal,,,Chelsea,,
+2025-03-15,Aston Villa,,,Liverpool,,
+2025-03-15,Fulham,,,Tottenham,,
+2025-03-15,Newcastle Utd,,,Crystal Palace,,
+2025-03-15,Leicester City,,,Manchester Utd,,
+2025-03-15,Manchester City,,,Brighton,,
+2025-03-15,Ipswich Town,,,Nott'ham Forest,,
+2025-03-15,Everton,,,West Ham,,
+2025-03-15,Southampton,,,Wolves,,
+2025-03-15,Bournemouth,,,Brentford,,
+,,,,,,
+2025-04-01,Brighton,,,Aston Villa,,
+2025-04-01,Bournemouth,,,Ipswich Town,,
+2025-04-01,Wolves,,,West Ham,,
+2025-04-01,Arsenal,,,Fulham,,
+2025-04-01,Nott'ham Forest,,,Manchester Utd,,
+2025-04-02,Southampton,,,Crystal Palace,,
+2025-04-02,Chelsea,,,Tottenham,,
+2025-04-02,Manchester City,,,Leicester City,,
+2025-04-02,Newcastle Utd,,,Brentford,,
+2025-04-02,Liverpool,,,Everton,,
+,,,,,,
+2025-04-05,West Ham,,,Bournemouth,,
+2025-04-05,Manchester Utd,,,Manchester City,,
+2025-04-05,Brentford,,,Chelsea,,
+2025-04-05,Aston Villa,,,Nott'ham Forest,,
+2025-04-05,Everton,,,Arsenal,,
+2025-04-05,Fulham,,,Liverpool,,
+2025-04-05,Ipswich Town,,,Wolves,,
+2025-04-05,Leicester City,,,Newcastle Utd,,
+2025-04-05,Crystal Palace,,,Brighton,,
+2025-04-05,Tottenham,,,Southampton,,
+,,,,,,
+2025-04-12,Bournemouth,,,Fulham,,
+2025-04-12,Newcastle Utd,,,Manchester Utd,,
+2025-04-12,Arsenal,,,Brentford,,
+2025-04-12,Liverpool,,,West Ham,,
+2025-04-12,Wolves,,,Tottenham,,
+2025-04-12,Brighton,,,Leicester City,,
+2025-04-12,Manchester City,,,Crystal Palace,,
+2025-04-12,Nott'ham Forest,,,Everton,,
+2025-04-12,Chelsea,,,Ipswich Town,,
+2025-04-12,Southampton,,,Aston Villa,,
+,,,,,,
+2025-04-19,Leicester City,,,Liverpool,,
+2025-04-19,Ipswich Town,,,Arsenal,,
+2025-04-19,Brentford,,,Brighton,,
+2025-04-19,Aston Villa,,,Newcastle Utd,,
+2025-04-19,Tottenham,,,Nott'ham Forest,,
+2025-04-19,West Ham,,,Southampton,,
+2025-04-19,Crystal Palace,,,Bournemouth,,
+2025-04-19,Everton,,,Manchester City,,
+2025-04-19,Fulham,,,Chelsea,,
+2025-04-19,Manchester Utd,,,Wolves,,
+,,,,,,
+2025-04-26,Chelsea,,,Everton,,
+2025-04-26,Wolves,,,Leicester City,,
+2025-04-26,Newcastle Utd,,,Ipswich Town,,
+2025-04-26,Manchester City,,,Aston Villa,,
+2025-04-26,Liverpool,,,Tottenham,,
+2025-04-26,Arsenal,,,Crystal Palace,,
+2025-04-26,Bournemouth,,,Manchester Utd,,
+2025-04-26,Southampton,,,Fulham,,
+2025-04-26,Nott'ham Forest,,,Brentford,,
+2025-04-26,Brighton,,,West Ham,,
+,,,,,,
+2025-05-03,Chelsea,,,Liverpool,,
+2025-05-03,Brentford,,,Manchester Utd,,
+2025-05-03,Manchester City,,,Wolves,,
+2025-05-03,West Ham,,,Tottenham,,
+2025-05-03,Crystal Palace,,,Nott'ham Forest,,
+2025-05-03,Arsenal,,,Bournemouth,,
+2025-05-03,Everton,,,Ipswich Town,,
+2025-05-03,Aston Villa,,,Fulham,,
+2025-05-03,Brighton,,,Newcastle Utd,,
+2025-05-03,Leicester City,,,Southampton,,
+,,,,,,
+2025-05-10,Liverpool,,,Arsenal,,
+2025-05-10,Southampton,,,Manchester City,,
+2025-05-10,Tottenham,,,Crystal Palace,,
+2025-05-10,Fulham,,,Everton,,
+2025-05-10,Newcastle Utd,,,Chelsea,,
+2025-05-10,Nott'ham Forest,,,Leicester City,,
+2025-05-10,Manchester Utd,,,West Ham,,
+2025-05-10,Bournemouth,,,Aston Villa,,
+2025-05-10,Ipswich Town,,,Brentford,,
+2025-05-10,Wolves,,,Brighton,,
+,,,,,,
+2025-05-18,Brentford,,,Fulham,,
+2025-05-18,Arsenal,,,Newcastle Utd,,
+2025-05-18,Brighton,,,Liverpool,,
+2025-05-18,Leicester City,,,Ipswich Town,,
+2025-05-18,West Ham,,,Nott'ham Forest,,
+2025-05-18,Everton,,,Southampton,,
+2025-05-18,Aston Villa,,,Tottenham,,
+2025-05-18,Chelsea,,,Manchester Utd,,
+2025-05-18,Manchester City,,,Bournemouth,,
+2025-05-18,Crystal Palace,,,Wolves,,
+,,,,,,
+2025-05-25,Southampton,,,Arsenal,,
+2025-05-25,Liverpool,,,Crystal Palace,,
+2025-05-25,Ipswich Town,,,West Ham,,
+2025-05-25,Bournemouth,,,Leicester City,,
+2025-05-25,Newcastle Utd,,,Everton,,
+2025-05-25,Fulham,,,Manchester City,,
+2025-05-25,Nott'ham Forest,,,Chelsea,,
+2025-05-25,Manchester Utd,,,Aston Villa,,
+2025-05-25,Wolves,,,Brentford,,
+2025-05-25,Tottenham,,,Brighton,,

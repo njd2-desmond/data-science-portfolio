@@ -1,0 +1,886 @@
+Wk,Date,Home,Away,HG,AG
+1,2012-09-07,Iceland,Norway,2,0
+1,2012-09-07,Russia,Northern Ireland,2,0
+1,2012-09-07,Liechtenstein,Bosnia & Herz'na,1,8
+1,2012-09-07,Wales,Belgium,0,2
+1,2012-09-07,Malta,Armenia,0,1
+1,2012-09-07,Croatia,N. Macedonia,1,0
+1,2012-09-07,Netherlands,Türkiye,2,0
+1,2012-09-07,Montenegro,Poland,2,2
+1,2012-09-07,Andorra,Hungary,0,5
+1,2012-09-07,Slovenia,Switzerland,0,2
+1,2012-09-07,Albania,Cyprus,3,1
+1,2012-09-07,Luxembourg,Portugal,1,2
+1,2012-09-07,Germany,Faroe Islands,3,0
+1,2012-09-07,Georgia,Belarus,1,0
+1,2012-09-07,Azerbaijan,Israel,1,1
+1,2012-09-07,Estonia,Romania,0,2
+1,2012-09-07,Lithuania,Slovakia,1,1
+1,2012-09-07,Latvia,Greece,1,2
+1,2012-09-07,Finland,France,0,1
+1,2012-09-07,Bulgaria,Italy,2,2
+1,2012-09-07,Moldova,England,0,5
+1,2012-09-07,Kazakhstan,Rep. Ireland,1,2
+1,2012-09-08,Scotland,Serbia,0,0
+1,2012-09-08,Denmark,Czechia,0,0
+,,,,,
+2,2012-09-11,Northern Ireland,Luxembourg,1,1
+2,2012-09-11,Norway,Slovenia,2,1
+2,2012-09-11,England,Ukraine,1,1
+2,2012-09-11,Scotland,N. Macedonia,1,1
+2,2012-09-11,Cyprus,Iceland,1,0
+2,2012-09-11,Bosnia & Herz'na,Latvia,4,1
+2,2012-09-11,Israel,Russia,0,4
+2,2012-09-11,Slovakia,Liechtenstein,2,0
+2,2012-09-11,Portugal,Azerbaijan,3,0
+2,2012-09-11,Serbia,Wales,6,1
+2,2012-09-11,Sweden,Kazakhstan,2,0
+2,2012-09-11,Switzerland,Albania,2,0
+2,2012-09-11,San Marino,Montenegro,0,6
+2,2012-09-11,Austria,Germany,1,2
+2,2012-09-11,Romania,Andorra,4,0
+2,2012-09-11,Hungary,Netherlands,1,4
+2,2012-09-11,Poland,Moldova,2,0
+2,2012-09-11,Belgium,Croatia,1,1
+2,2012-09-11,Italy,Malta,2,0
+2,2012-09-11,Bulgaria,Armenia,1,0
+2,2012-09-11,France,Belarus,3,1
+2,2012-09-11,Türkiye,Estonia,3,0
+2,2012-09-11,Georgia,Spain,0,1
+2,2012-09-11,Greece,Lithuania,2,0
+,,,,,
+3,2012-10-13,Serbia,Belgium,0,3
+3,2012-10-12,Faroe Islands,Sweden,1,2
+3,2012-10-12,Czechia,Malta,3,1
+3,2012-10-12,Finland,Georgia,1,1
+3,2012-10-12,Albania,Iceland,1,2
+3,2012-10-12,Russia,Portugal,1,0
+3,2012-10-12,Liechtenstein,Lithuania,0,2
+3,2012-10-12,Wales,Scotland,2,1
+3,2012-10-12,Rep. Ireland,Germany,1,6
+3,2012-10-12,England,San Marino,5,0
+3,2012-10-12,Slovakia,Latvia,2,1
+3,2012-10-12,Netherlands,Andorra,3,0
+3,2012-10-12,N. Macedonia,Croatia,1,2
+3,2012-10-12,Switzerland,Norway,1,1
+3,2012-10-12,Türkiye,Romania,0,1
+3,2012-10-12,Slovenia,Cyprus,2,1
+3,2012-10-12,Luxembourg,Israel,0,6
+3,2012-10-12,Bulgaria,Denmark,1,1
+3,2012-10-12,Belarus,Spain,0,4
+3,2012-10-12,Armenia,Italy,1,3
+,,,,,
+9,2012-10-12,Moldova,Ukraine,0,0
+,,,,,
+3,2012-10-12,Estonia,Hungary,0,1
+3,2012-10-12,Greece,Bosnia & Herz'na,0,0
+3,2012-10-12,Kazakhstan,Austria,0,0
+,,,,,
+4,2012-10-16,Israel,Luxembourg,3,0
+4,2012-10-16,Iceland,Switzerland,0,2
+4,2012-10-16,Andorra,Estonia,0,1
+4,2012-10-16,Belarus,Georgia,2,0
+4,2012-10-16,Russia,Azerbaijan,1,0
+4,2012-10-16,Faroe Islands,Rep. Ireland,1,4
+4,2012-10-16,Bosnia & Herz'na,Lithuania,3,0
+4,2012-10-16,Latvia,Liechtenstein,2,0
+4,2012-10-16,Czechia,Bulgaria,0,0
+4,2012-10-16,Croatia,Wales,2,0
+4,2012-10-16,Austria,Kazakhstan,4,0
+4,2012-10-16,Hungary,Türkiye,3,1
+4,2012-10-16,San Marino,Moldova,0,2
+4,2012-10-16,N. Macedonia,Serbia,1,0
+4,2012-10-16,Slovakia,Greece,0,1
+4,2012-10-16,Portugal,Northern Ireland,1,1
+4,2012-10-16,Belgium,Scotland,2,0
+4,2012-10-16,Albania,Slovenia,1,0
+4,2012-10-16,Germany,Sweden,4,4
+4,2012-10-16,Italy,Denmark,3,1
+4,2012-10-16,Spain,France,1,1
+4,2012-10-16,Romania,Netherlands,1,4
+4,2012-10-16,Cyprus,Norway,1,3
+4,2012-10-16,Ukraine,Montenegro,0,1
+4,2012-10-17,Poland,England,1,1
+,,,,,
+3,2012-11-14,Montenegro,San Marino,3,0
+3,2012-11-14,Northern Ireland,Azerbaijan,1,1
+,,,,,
+5,2013-03-23,Kazakhstan,Germany,0,3
+5,2013-03-22,Israel,Portugal,3,3
+5,2013-03-22,Bulgaria,Malta,6,0
+5,2013-03-22,Croatia,Serbia,2,0
+5,2013-03-22,Slovenia,Iceland,1,2
+5,2013-03-22,Norway,Albania,0,1
+5,2013-03-22,Andorra,Türkiye,0,2
+5,2013-03-22,Liechtenstein,Latvia,1,1
+5,2013-03-22,Scotland,Wales,1,2
+5,2013-03-22,Slovakia,Lithuania,1,1
+5,2013-03-22,Luxembourg,Azerbaijan,0,0
+,,,,,
+2,2013-03-22,Czechia,Denmark,0,3
+,,,,,
+5,2013-03-22,Netherlands,Estonia,3,0
+5,2013-03-22,Austria,Faroe Islands,6,0
+5,2013-03-22,Hungary,Romania,2,2
+5,2013-03-22,Spain,Finland,1,1
+5,2013-03-22,Poland,Ukraine,1,3
+5,2013-03-22,Bosnia & Herz'na,Greece,3,1
+5,2013-03-22,Sweden,Rep. Ireland,0,0
+5,2013-03-22,N. Macedonia,Belgium,0,2
+5,2013-03-22,San Marino,England,0,8
+5,2013-03-22,France,Georgia,3,1
+5,2013-03-22,Moldova,Montenegro,0,1
+5,2013-03-23,Cyprus,Switzerland,0,0
+,,,,,
+6,2013-03-26,Estonia,Andorra,2,0
+6,2013-03-26,Northern Ireland,Israel,0,2
+6,2013-03-26,Rep. Ireland,Austria,2,2
+6,2013-03-26,Wales,Croatia,1,2
+6,2013-03-26,Armenia,Czechia,0,3
+6,2013-03-26,Denmark,Bulgaria,1,1
+6,2013-03-26,Türkiye,Hungary,1,1
+6,2013-03-26,Serbia,Scotland,2,0
+6,2013-03-26,Netherlands,Romania,4,0
+6,2013-03-26,Germany,Kazakhstan,4,1
+6,2013-03-26,Malta,Italy,0,2
+6,2013-03-26,Belgium,N. Macedonia,1,0
+6,2013-03-26,Poland,San Marino,5,0
+6,2013-03-26,France,Spain,0,1
+6,2013-03-26,Montenegro,England,1,1
+6,2013-03-26,Ukraine,Moldova,2,1
+,,,,,
+8,2013-03-26,Azerbaijan,Portugal,0,2
+,,,,,
+6,2013-06-07,Iceland,Slovenia,2,4
+6,2013-06-07,Finland,Belarus,1,0
+6,2013-06-07,Latvia,Bosnia & Herz'na,0,5
+,,,,,
+2,2013-06-07,Rep. Ireland,Faroe Islands,3,0
+,,,,,
+4,2013-06-07,Armenia,Malta,0,1
+,,,,,
+6,2013-06-07,Liechtenstein,Slovakia,1,1
+,,,,,
+7,2013-06-07,Croatia,Scotland,0,1
+,,,,,
+6,2013-06-07,Albania,Norway,1,1
+,,,,,
+9,2013-06-07,Montenegro,Ukraine,0,4
+,,,,,
+1,2013-06-07,Austria,Sweden,2,1
+,,,,,
+5,2013-06-07,Czechia,Italy,0,0
+,,,,,
+6,2013-06-07,Portugal,Russia,1,0
+,,,,,
+7,2013-06-07,Belgium,Serbia,2,1
+,,,,,
+6,2013-06-07,Azerbaijan,Luxembourg,1,1
+,,,,,
+3,2013-06-07,Moldova,Poland,1,1
+,,,,,
+6,2013-06-07,Lithuania,Greece,0,1
+6,2013-06-08,Switzerland,Cyprus,1,0
+6,2013-06-11,Sweden,Faroe Islands,2,0
+,,,,,
+7,2013-06-11,Belarus,Finland,1,1
+,,,,,
+5,2013-06-11,Denmark,Armenia,0,4
+5,2013-08-14,Northern Ireland,Russia,1,0
+,,,,,
+7,2013-09-06,Czechia,Armenia,1,2
+7,2013-09-06,Norway,Cyprus,2,0
+,,,,,
+8,2013-09-06,N. Macedonia,Wales,2,1
+,,,,,
+7,2013-09-06,Russia,Luxembourg,4,1
+7,2013-09-06,Rep. Ireland,Sweden,1,2
+7,2013-09-06,Northern Ireland,Portugal,2,4
+7,2013-09-06,England,Moldova,4,0
+7,2013-09-06,Malta,Denmark,1,2
+,,,,,
+8,2013-09-06,Scotland,Belgium,0,2
+,,,,,
+7,2013-09-06,Bosnia & Herz'na,Slovakia,0,1
+7,2013-09-06,Slovenia,Albania,1,0
+7,2013-09-06,Switzerland,Iceland,4,4
+7,2013-09-06,Liechtenstein,Greece,0,1
+7,2013-09-06,Italy,Bulgaria,1,0
+7,2013-09-06,Poland,Montenegro,1,1
+7,2013-09-06,Germany,Austria,3,0
+,,,,,
+8,2013-09-06,Serbia,Croatia,1,1
+,,,,,
+1,2013-09-06,Ukraine,San Marino,9,0
+,,,,,
+7,2013-09-06,Kazakhstan,Faroe Islands,2,1
+7,2013-09-06,Türkiye,Andorra,5,0
+7,2013-09-06,Romania,Hungary,3,0
+7,2013-09-06,Latvia,Lithuania,2,1
+7,2013-09-06,Estonia,Netherlands,2,2
+,,,,,
+8,2013-09-06,Finland,Spain,0,2
+,,,,,
+7,2013-09-06,Georgia,France,0,0
+7,2013-09-07,Israel,Azerbaijan,1,1
+,,,,,
+8,2013-09-10,Lithuania,Liechtenstein,2,0
+8,2013-09-10,Iceland,Albania,2,1
+8,2013-09-10,Russia,Israel,3,1
+8,2013-09-10,Norway,Switzerland,0,2
+8,2013-09-10,Faroe Islands,Germany,0,3
+,,,,,
+9,2013-09-10,Wales,Serbia,0,3
+,,,,,
+8,2013-09-10,Malta,Bulgaria,1,2
+8,2013-09-10,Armenia,Denmark,0,1
+8,2013-09-10,Luxembourg,Northern Ireland,3,2
+8,2013-09-10,Slovakia,Bosnia & Herz'na,1,2
+8,2013-09-10,Hungary,Estonia,5,1
+8,2013-09-10,Andorra,Netherlands,0,2
+,,,,,
+9,2013-09-10,N. Macedonia,Scotland,1,2
+,,,,,
+8,2013-09-10,San Marino,Poland,1,5
+8,2013-09-10,Austria,Rep. Ireland,1,0
+8,2013-09-10,Italy,Czechia,2,1
+8,2013-09-10,Romania,Türkiye,0,2
+,,,,,
+9,2013-09-10,Georgia,Finland,0,1
+,,,,,
+8,2013-09-10,Cyprus,Slovenia,0,2
+8,2013-09-10,Greece,Latvia,1,0
+8,2013-09-10,Ukraine,England,0,0
+8,2013-09-10,Kazakhstan,Sweden,0,1
+8,2013-09-10,Belarus,France,2,4
+,,,,,
+9,2013-10-11,Croatia,Belgium,1,2
+9,2013-10-11,Faroe Islands,Kazakhstan,1,1
+9,2013-10-11,Lithuania,Latvia,2,0
+9,2013-10-11,Iceland,Cyprus,2,0
+9,2013-10-11,Armenia,Bulgaria,2,1
+,,,,,
+10,2013-10-11,Moldova,San Marino,3,0
+,,,,,
+9,2013-10-11,Malta,Czechia,1,4
+,,,,,
+7,2013-10-11,Wales,N. Macedonia,1,0
+,,,,,
+9,2013-10-11,Bosnia & Herz'na,Liechtenstein,4,1
+,,,,,
+10,2013-10-11,England,Montenegro,4,1
+,,,,,
+9,2013-10-11,Denmark,Italy,2,2
+9,2013-10-11,Netherlands,Hungary,8,1
+9,2013-10-11,Luxembourg,Russia,0,4
+9,2013-10-11,Andorra,Romania,0,4
+9,2013-10-11,Albania,Switzerland,1,2
+9,2013-10-11,Portugal,Israel,1,1
+9,2013-10-11,Slovenia,Norway,3,0
+9,2013-10-11,Sweden,Austria,2,1
+9,2013-10-11,Germany,Rep. Ireland,3,0
+9,2013-10-11,Azerbaijan,Northern Ireland,2,0
+,,,,,
+10,2013-10-11,Ukraine,Poland,1,0
+,,,,,
+9,2013-10-11,Estonia,Türkiye,0,2
+9,2013-10-11,Greece,Slovakia,1,0
+9,2013-10-11,Spain,Belarus,2,1
+,,,,,
+10,2013-10-15,Portugal,Luxembourg,3,0
+10,2013-10-15,Cyprus,Albania,0,0
+10,2013-10-15,Rep. Ireland,Kazakhstan,3,1
+10,2013-10-15,Faroe Islands,Austria,0,3
+,,,,,
+9,2013-10-15,England,Poland,2,0
+,,,,,
+10,2013-10-15,Switzerland,Slovenia,1,0
+10,2013-10-15,Scotland,Croatia,2,0
+10,2013-10-15,Hungary,Andorra,2,0
+10,2013-10-15,Lithuania,Bosnia & Herz'na,0,1
+10,2013-10-15,Greece,Liechtenstein,2,0
+10,2013-10-15,Norway,Iceland,1,1
+10,2013-10-15,Israel,Northern Ireland,1,1
+10,2013-10-15,Denmark,Malta,6,0
+10,2013-10-15,Serbia,N. Macedonia,5,1
+10,2013-10-15,Sweden,Germany,3,5
+10,2013-10-15,Italy,Armenia,2,2
+,,,,,
+7,2013-10-15,San Marino,Ukraine,0,8
+,,,,,
+8,2013-10-15,Montenegro,Moldova,2,5
+,,,,,
+10,2013-10-15,Romania,Estonia,2,0
+10,2013-10-15,Belgium,Wales,1,1
+10,2013-10-15,Türkiye,Netherlands,0,2
+10,2013-10-15,France,Finland,3,0
+10,2013-10-15,Spain,Georgia,2,0
+10,2013-10-15,Latvia,Slovakia,2,2
+10,2013-10-15,Bulgaria,Czechia,0,1
+10,2013-10-15,Azerbaijan,Russia,1,1
+,,,,,
+,2013-11-15,Iceland,Croatia,0,0
+,2013-11-15,Portugal,Sweden,1,0
+,2013-11-15,Greece,Romania,3,1
+,2013-11-15,Ukraine,France,2,0
+,2013-11-19,Croatia,Iceland,2,0
+,2013-11-19,Sweden,Portugal,2,3
+,2013-11-19,France,Ukraine,3,0
+,2013-11-19,Romania,Greece,1,1
+1,2016-09-04,Denmark,Armenia,1,0
+1,2016-09-04,San Marino,Azerbaijan,0,1
+1,2016-09-04,Slovakia,England,0,1
+1,2016-09-04,Lithuania,Slovenia,2,2
+1,2016-09-04,Norway,Germany,0,3
+1,2016-09-04,Czechia,Northern Ireland,0,0
+1,2016-09-04,Malta,Scotland,1,5
+1,2016-09-04,Romania,Montenegro,1,1
+1,2016-09-04,Kazakhstan,Poland,2,2
+1,2016-09-05,Wales,Moldova,4,0
+1,2016-09-05,Georgia,Austria,1,2
+1,2016-09-05,Serbia,Rep. Ireland,2,2
+1,2016-09-05,Croatia,Türkiye,1,1
+1,2016-09-05,Spain,Liechtenstein,8,0
+1,2016-09-05,Ukraine,Iceland,1,1
+1,2016-09-05,Israel,Italy,1,3
+1,2016-09-05,Finland,Kosovo,1,1
+1,2016-09-06,Albania,N. Macedonia,2,1
+1,2016-09-06,Gibraltar,Greece,1,4
+1,2016-09-06,Faroe Islands,Hungary,0,0
+1,2016-09-06,Switzerland,Portugal,2,0
+1,2016-09-06,Bosnia & Herz'na,Estonia,5,0
+1,2016-09-06,Andorra,Latvia,0,1
+1,2016-09-06,Sweden,Netherlands,1,1
+1,2016-09-06,Belarus,France,0,0
+1,2016-09-06,Cyprus,Belgium,0,3
+1,2016-09-06,Bulgaria,Luxembourg,4,3
+,,,,,
+2,2016-10-06,Iceland,Finland,3,2
+2,2016-10-06,Rep. Ireland,Georgia,1,0
+2,2016-10-06,N. Macedonia,Israel,1,2
+2,2016-10-06,Italy,Spain,1,1
+2,2016-10-06,Liechtenstein,Albania,0,2
+2,2016-10-06,Austria,Wales,2,2
+2,2016-10-06,Kosovo,Croatia,0,6
+2,2016-10-06,Moldova,Serbia,0,3
+2,2016-10-06,Türkiye,Ukraine,2,2
+2,2016-10-07,Portugal,Andorra,6,0
+2,2016-10-07,Luxembourg,Sweden,0,1
+2,2016-10-07,France,Bulgaria,4,1
+2,2016-10-07,Netherlands,Belarus,4,1
+2,2016-10-07,Hungary,Switzerland,2,3
+2,2016-10-07,Belgium,Bosnia & Herz'na,4,0
+2,2016-10-07,Estonia,Gibraltar,4,0
+2,2016-10-07,Latvia,Faroe Islands,0,2
+2,2016-10-07,Greece,Cyprus,2,0
+2,2016-10-08,England,Malta,2,0
+2,2016-10-08,Montenegro,Kazakhstan,5,0
+2,2016-10-08,Scotland,Lithuania,1,1
+2,2016-10-08,Northern Ireland,San Marino,4,0
+2,2016-10-08,Azerbaijan,Norway,1,0
+2,2016-10-08,Armenia,Romania,0,5
+2,2016-10-08,Germany,Czechia,3,0
+2,2016-10-08,Poland,Denmark,3,2
+2,2016-10-08,Slovenia,Slovakia,1,0
+,,,,,
+3,2016-10-09,Wales,Georgia,1,1
+3,2016-10-09,Ukraine,Kosovo,3,0
+3,2016-10-09,Iceland,Türkiye,2,0
+3,2016-10-09,Finland,Croatia,0,1
+3,2016-10-09,Israel,Liechtenstein,2,1
+3,2016-10-09,Serbia,Austria,3,2
+3,2016-10-09,Albania,Spain,0,2
+3,2016-10-09,N. Macedonia,Italy,2,3
+3,2016-10-09,Moldova,Rep. Ireland,1,3
+3,2016-10-10,Faroe Islands,Portugal,0,6
+3,2016-10-10,Gibraltar,Belgium,0,6
+3,2016-10-10,Sweden,Bulgaria,3,0
+3,2016-10-10,Bosnia & Herz'na,Cyprus,2,0
+3,2016-10-10,Andorra,Switzerland,1,2
+3,2016-10-10,Netherlands,France,0,1
+3,2016-10-10,Latvia,Hungary,0,2
+3,2016-10-10,Estonia,Greece,0,2
+3,2016-10-10,Belarus,Luxembourg,1,1
+3,2016-10-11,Poland,Armenia,2,1
+3,2016-10-11,Slovenia,England,0,0
+3,2016-10-11,Slovakia,Scotland,3,0
+3,2016-10-11,Denmark,Montenegro,0,1
+3,2016-10-11,Norway,San Marino,4,1
+3,2016-10-11,Germany,Northern Ireland,2,0
+3,2016-10-11,Czechia,Azerbaijan,0,0
+3,2016-10-11,Lithuania,Malta,2,0
+3,2016-10-11,Kazakhstan,Romania,0,0
+,,,,,
+4,2016-11-11,Northern Ireland,Azerbaijan,4,0
+4,2016-11-11,England,Scotland,3,0
+4,2016-11-11,Slovakia,Lithuania,4,0
+4,2016-11-11,San Marino,Germany,0,8
+4,2016-11-11,Malta,Slovenia,0,1
+4,2016-11-11,France,Sweden,2,1
+4,2016-11-11,Czechia,Norway,2,1
+4,2016-11-11,Denmark,Kazakhstan,4,1
+4,2016-11-11,Armenia,Montenegro,3,2
+4,2016-11-11,Romania,Poland,0,3
+4,2016-11-12,Croatia,Iceland,2,0
+4,2016-11-12,Austria,Rep. Ireland,0,1
+4,2016-11-12,Wales,Serbia,1,1
+4,2016-11-12,Türkiye,Kosovo,2,0
+4,2016-11-12,Spain,N. Macedonia,4,0
+4,2016-11-12,Albania,Israel,0,3
+4,2016-11-12,Liechtenstein,Italy,0,4
+4,2016-11-12,Georgia,Moldova,1,1
+4,2016-11-12,Ukraine,Finland,1,0
+4,2016-11-13,Switzerland,Faroe Islands,2,0
+4,2016-11-13,Hungary,Andorra,4,0
+4,2016-11-13,Luxembourg,Netherlands,1,3
+4,2016-11-13,Cyprus,Gibraltar,3,1
+4,2016-11-13,Bulgaria,Belarus,1,0
+4,2016-11-13,Portugal,Latvia,4,1
+4,2016-11-13,Belgium,Estonia,8,1
+4,2016-11-13,Greece,Bosnia & Herz'na,1,1
+,,,,,
+5,2017-03-24,Rep. Ireland,Wales,0,0
+5,2017-03-24,Türkiye,Finland,2,0
+5,2017-03-24,Liechtenstein,N. Macedonia,0,3
+5,2017-03-24,Kosovo,Iceland,1,2
+5,2017-03-24,Croatia,Ukraine,1,0
+5,2017-03-24,Italy,Albania,2,0
+5,2017-03-24,Spain,Israel,4,1
+5,2017-03-24,Austria,Moldova,2,0
+5,2017-03-24,Georgia,Serbia,1,3
+5,2017-03-25,Sweden,Belarus,4,0
+5,2017-03-25,Andorra,Faroe Islands,0,0
+5,2017-03-25,Bosnia & Herz'na,Gibraltar,5,0
+5,2017-03-25,Switzerland,Latvia,1,0
+5,2017-03-25,Cyprus,Estonia,0,0
+5,2017-03-25,Portugal,Hungary,3,0
+5,2017-03-25,Belgium,Greece,1,1
+5,2017-03-25,Luxembourg,France,1,3
+5,2017-03-25,Bulgaria,Netherlands,2,0
+5,2017-03-26,England,Lithuania,2,0
+5,2017-03-26,San Marino,Czechia,0,6
+5,2017-03-26,Northern Ireland,Norway,2,0
+5,2017-03-26,Scotland,Slovenia,1,0
+5,2017-03-26,Azerbaijan,Germany,1,4
+5,2017-03-26,Armenia,Kazakhstan,2,0
+5,2017-03-26,Malta,Slovakia,1,3
+5,2017-03-26,Montenegro,Poland,1,2
+5,2017-03-26,Romania,Denmark,0,0
+,,,,,
+6,2017-06-09,Gibraltar,Cyprus,1,2
+6,2017-06-09,Faroe Islands,Switzerland,0,2
+6,2017-06-09,Sweden,France,2,1
+6,2017-06-09,Netherlands,Luxembourg,5,0
+6,2017-06-09,Bosnia & Herz'na,Greece,0,0
+6,2017-06-09,Andorra,Hungary,1,0
+6,2017-06-09,Latvia,Portugal,0,3
+6,2017-06-09,Belarus,Bulgaria,2,1
+6,2017-06-09,Estonia,Belgium,0,2
+6,2017-06-10,Scotland,England,2,2
+6,2017-06-10,Slovenia,Malta,2,0
+6,2017-06-10,Azerbaijan,Northern Ireland,0,1
+6,2017-06-10,Montenegro,Armenia,4,1
+6,2017-06-10,Germany,San Marino,7,0
+6,2017-06-10,Norway,Czechia,1,1
+6,2017-06-10,Poland,Romania,3,1
+6,2017-06-10,Lithuania,Slovakia,1,2
+6,2017-06-10,Kazakhstan,Denmark,1,3
+6,2017-06-11,Rep. Ireland,Austria,1,1
+6,2017-06-11,Iceland,Croatia,1,0
+6,2017-06-11,Moldova,Georgia,2,2
+6,2017-06-11,Finland,Ukraine,1,2
+6,2017-06-11,N. Macedonia,Spain,1,2
+6,2017-06-11,Kosovo,Türkiye,1,4
+6,2017-06-11,Italy,Liechtenstein,5,0
+6,2017-06-11,Serbia,Wales,1,1
+6,2017-06-11,Israel,Albania,0,3
+,,,,,
+7,2017-08-31,Portugal,Faroe Islands,5,1
+7,2017-08-31,Luxembourg,Belarus,1,0
+7,2017-08-31,France,Netherlands,4,0
+7,2017-08-31,Hungary,Latvia,3,1
+7,2017-08-31,Belgium,Gibraltar,9,0
+7,2017-08-31,Switzerland,Andorra,3,0
+7,2017-08-31,Bulgaria,Sweden,3,2
+7,2017-08-31,Cyprus,Bosnia & Herz'na,3,2
+7,2017-08-31,Greece,Estonia,0,0
+7,2017-09-01,Czechia,Germany,1,2
+7,2017-09-01,San Marino,Northern Ireland,0,3
+7,2017-09-01,Denmark,Poland,4,0
+7,2017-09-01,Slovakia,Slovenia,1,0
+7,2017-09-01,Malta,England,0,4
+7,2017-09-01,Norway,Azerbaijan,2,0
+7,2017-09-01,Romania,Armenia,1,0
+7,2017-09-01,Lithuania,Scotland,0,3
+7,2017-09-01,Kazakhstan,Montenegro,0,3
+7,2017-09-02,Albania,Liechtenstein,2,0
+7,2017-09-02,Serbia,Moldova,3,0
+7,2017-09-02,Finland,Iceland,1,0
+7,2017-09-02,Wales,Austria,1,0
+7,2017-09-02,Georgia,Rep. Ireland,1,1
+7,2017-09-02,Spain,Italy,3,0
+7,2017-09-02,Israel,N. Macedonia,0,1
+7,2017-09-02,Ukraine,Türkiye,2,0
+7,2017-09-03,Croatia,Kosovo,1,0
+,,,,,
+8,2017-09-03,Faroe Islands,Andorra,1,0
+8,2017-09-03,Netherlands,Bulgaria,3,1
+8,2017-09-03,Estonia,Cyprus,1,0
+8,2017-09-03,Belarus,Sweden,0,4
+8,2017-09-03,Gibraltar,Bosnia & Herz'na,0,4
+8,2017-09-03,Hungary,Portugal,0,1
+8,2017-09-03,France,Luxembourg,0,0
+8,2017-09-03,Latvia,Switzerland,0,3
+8,2017-09-03,Greece,Belgium,1,2
+8,2017-09-04,Northern Ireland,Czechia,2,0
+8,2017-09-04,England,Slovakia,2,1
+8,2017-09-04,Scotland,Malta,2,0
+8,2017-09-04,Azerbaijan,San Marino,5,1
+8,2017-09-04,Armenia,Denmark,1,4
+8,2017-09-04,Poland,Kazakhstan,3,0
+8,2017-09-04,Germany,Norway,6,0
+8,2017-09-04,Montenegro,Romania,1,0
+8,2017-09-04,Slovenia,Lithuania,4,0
+8,2017-09-05,Iceland,Ukraine,2,0
+8,2017-09-05,Rep. Ireland,Serbia,0,1
+8,2017-09-05,Austria,Georgia,1,1
+8,2017-09-05,Italy,Israel,1,0
+8,2017-09-05,N. Macedonia,Albania,1,1
+8,2017-09-05,Liechtenstein,Spain,0,8
+8,2017-09-05,Kosovo,Finland,0,1
+8,2017-09-05,Türkiye,Croatia,1,0
+8,2017-09-05,Moldova,Wales,0,2
+,,,,,
+9,2017-10-05,Scotland,Slovakia,1,0
+9,2017-10-05,England,Slovenia,1,0
+9,2017-10-05,Northern Ireland,Germany,1,3
+9,2017-10-05,Azerbaijan,Czechia,1,2
+9,2017-10-05,Armenia,Poland,1,6
+9,2017-10-05,Malta,Lithuania,1,1
+9,2017-10-05,Montenegro,Denmark,0,1
+9,2017-10-05,San Marino,Norway,0,8
+9,2017-10-05,Romania,Kazakhstan,3,1
+9,2017-10-06,Rep. Ireland,Moldova,2,0
+9,2017-10-06,Georgia,Wales,0,1
+9,2017-10-06,Croatia,Finland,1,1
+9,2017-10-06,Kosovo,Ukraine,0,2
+9,2017-10-06,Spain,Albania,3,0
+9,2017-10-06,Austria,Serbia,3,2
+9,2017-10-06,Italy,N. Macedonia,1,1
+9,2017-10-06,Liechtenstein,Israel,0,1
+9,2017-10-06,Türkiye,Iceland,0,3
+9,2017-10-07,Faroe Islands,Latvia,0,0
+9,2017-10-07,Gibraltar,Estonia,0,6
+9,2017-10-07,Sweden,Luxembourg,8,0
+9,2017-10-07,Bosnia & Herz'na,Belgium,3,4
+9,2017-10-07,Switzerland,Hungary,5,2
+9,2017-10-07,Andorra,Portugal,0,2
+9,2017-10-07,Belarus,Netherlands,1,3
+9,2017-10-07,Cyprus,Greece,1,2
+9,2017-10-07,Bulgaria,France,0,1
+,,,,,
+10,2017-10-08,Slovenia,Scotland,2,2
+10,2017-10-08,Slovakia,Malta,3,0
+10,2017-10-08,Denmark,Romania,1,1
+10,2017-10-08,Poland,Montenegro,4,2
+10,2017-10-08,Lithuania,England,0,1
+10,2017-10-08,Norway,Northern Ireland,1,0
+10,2017-10-08,Germany,Azerbaijan,5,1
+10,2017-10-08,Czechia,San Marino,5,0
+10,2017-10-08,Kazakhstan,Armenia,1,1
+10,2017-10-09,Iceland,Kosovo,2,0
+10,2017-10-09,Wales,Rep. Ireland,0,1
+10,2017-10-09,Albania,Italy,0,1
+10,2017-10-09,Serbia,Georgia,1,0
+10,2017-10-09,N. Macedonia,Liechtenstein,4,0
+10,2017-10-09,Israel,Spain,0,1
+10,2017-10-09,Finland,Türkiye,2,2
+10,2017-10-09,Ukraine,Croatia,0,2
+10,2017-10-09,Moldova,Austria,0,1
+10,2017-10-10,Portugal,Switzerland,2,0
+10,2017-10-10,Luxembourg,Bulgaria,1,1
+10,2017-10-10,France,Belarus,2,1
+10,2017-10-10,Hungary,Faroe Islands,1,0
+10,2017-10-10,Belgium,Cyprus,4,0
+10,2017-10-10,Netherlands,Sweden,2,0
+10,2017-10-10,Latvia,Andorra,4,0
+10,2017-10-10,Estonia,Bosnia & Herz'na,1,2
+10,2017-10-10,Greece,Gibraltar,4,0
+,,,,,
+,2017-11-09,Northern Ireland,Switzerland,0,1
+,2017-11-09,Croatia,Greece,4,1
+,2017-11-10,Sweden,Italy,1,0
+,2017-11-11,Denmark,Rep. Ireland,0,0
+,2017-11-12,Switzerland,Northern Ireland,0,0
+,2017-11-12,Greece,Croatia,0,0
+,2017-11-13,Italy,Sweden,0,0
+,2017-11-14,Rep. Ireland,Denmark,1,5
+1,2021-03-24,Portugal,Azerbaijan,1,0
+1,2021-03-24,Türkiye,Netherlands,4,2
+1,2021-03-24,Serbia,Rep. Ireland,3,2
+1,2021-03-24,France,Ukraine,1,1
+1,2021-03-24,Malta,Russia,1,3
+1,2021-03-24,Belgium,Wales,3,1
+1,2021-03-24,Gibraltar,Norway,0,3
+1,2021-03-24,Slovenia,Croatia,1,0
+1,2021-03-24,Cyprus,Slovakia,0,0
+1,2021-03-24,Latvia,Montenegro,1,2
+1,2021-03-24,Estonia,Czechia,2,6
+1,2021-03-24,Finland,Bosnia & Herz'na,2,2
+1,2021-03-25,Israel,Denmark,0,2
+1,2021-03-25,Bulgaria,Switzerland,1,3
+1,2021-03-25,Scotland,Austria,2,2
+1,2021-03-25,England,San Marino,5,0
+1,2021-03-25,Andorra,Albania,0,1
+1,2021-03-25,Liechtenstein,Armenia,0,1
+1,2021-03-25,Hungary,Poland,3,3
+1,2021-03-25,Spain,Greece,1,1
+1,2021-03-25,Germany,Iceland,3,0
+1,2021-03-25,Italy,Northern Ireland,2,0
+1,2021-03-25,Sweden,Georgia,1,0
+1,2021-03-25,Moldova,Faroe Islands,1,1
+1,2021-03-25,Romania,N. Macedonia,3,2
+,,,,,
+2,2021-03-27,Montenegro,Gibraltar,4,1
+2,2021-03-27,Russia,Slovenia,2,1
+2,2021-03-27,Croatia,Cyprus,1,0
+2,2021-03-27,Norway,Türkiye,0,3
+2,2021-03-27,Netherlands,Latvia,2,0
+2,2021-03-27,Rep. Ireland,Luxembourg,0,1
+2,2021-03-27,Belarus,Estonia,4,2
+2,2021-03-27,Serbia,Portugal,2,2
+2,2021-03-27,Slovakia,Malta,2,2
+2,2021-03-27,Czechia,Belgium,1,1
+2,2021-03-28,Denmark,Moldova,8,0
+2,2021-03-28,Albania,England,0,2
+2,2021-03-28,Kazakhstan,France,0,2
+2,2021-03-28,Georgia,Spain,1,2
+2,2021-03-28,Armenia,Iceland,2,0
+2,2021-03-28,Switzerland,Lithuania,1,0
+2,2021-03-28,Austria,Faroe Islands,3,1
+2,2021-03-28,San Marino,Hungary,0,3
+2,2021-03-28,Poland,Andorra,3,0
+2,2021-03-28,N. Macedonia,Liechtenstein,5,0
+2,2021-03-28,Kosovo,Sweden,0,3
+2,2021-03-28,Romania,Germany,0,1
+2,2021-03-28,Bulgaria,Italy,0,2
+2,2021-03-28,Ukraine,Finland,1,1
+2,2021-03-28,Israel,Scotland,1,1
+,,,,,
+3,2021-03-30,Cyprus,Slovenia,1,0
+3,2021-03-30,Wales,Czechia,1,0
+3,2021-03-30,Azerbaijan,Serbia,1,2
+3,2021-03-30,Montenegro,Norway,0,1
+3,2021-03-30,Croatia,Malta,3,0
+3,2021-03-30,Luxembourg,Portugal,1,3
+3,2021-03-30,Gibraltar,Netherlands,0,7
+3,2021-03-30,Slovakia,Russia,2,1
+3,2021-03-30,Belgium,Belarus,8,0
+3,2021-03-30,Türkiye,Latvia,3,3
+3,2021-03-31,England,Poland,2,1
+3,2021-03-31,Northern Ireland,Bulgaria,0,0
+3,2021-03-31,Scotland,Faroe Islands,4,0
+3,2021-03-31,Armenia,Romania,3,2
+3,2021-03-31,Andorra,Hungary,1,4
+3,2021-03-31,Austria,Denmark,0,4
+3,2021-03-31,Germany,N. Macedonia,1,2
+3,2021-03-31,Bosnia & Herz'na,France,0,1
+3,2021-03-31,San Marino,Albania,0,2
+3,2021-03-31,Spain,Kosovo,3,1
+3,2021-03-31,Liechtenstein,Iceland,1,4
+3,2021-03-31,Moldova,Israel,1,4
+3,2021-03-31,Lithuania,Italy,0,2
+3,2021-03-31,Greece,Georgia,1,1
+3,2021-03-31,Ukraine,Kazakhstan,1,1
+,,,,,
+4,2021-09-01,Portugal,Rep. Ireland,2,1
+4,2021-09-01,Faroe Islands,Israel,0,4
+4,2021-09-01,Kazakhstan,Ukraine,2,2
+4,2021-09-01,Luxembourg,Azerbaijan,2,1
+4,2021-09-01,Denmark,Scotland,2,0
+4,2021-09-01,Norway,Netherlands,1,1
+4,2021-09-01,Malta,Cyprus,3,0
+4,2021-09-01,Slovenia,Slovakia,1,1
+4,2021-09-01,France,Bosnia & Herz'na,1,1
+4,2021-09-01,Türkiye,Montenegro,2,2
+4,2021-09-01,Russia,Croatia,0,0
+4,2021-09-01,Latvia,Gibraltar,3,1
+4,2021-09-01,Moldova,Austria,0,2
+4,2021-09-02,Iceland,Romania,0,2
+4,2021-09-02,Georgia,Kosovo,0,1
+4,2021-09-02,Andorra,San Marino,2,0
+4,2021-09-02,Poland,Albania,4,1
+4,2021-09-02,N. Macedonia,Armenia,0,0
+4,2021-09-02,Hungary,England,0,4
+4,2021-09-02,Italy,Bulgaria,1,1
+4,2021-09-02,Sweden,Spain,2,1
+4,2021-09-02,Liechtenstein,Germany,0,2
+4,2021-09-02,Czechia,Belarus,1,0
+4,2021-09-02,Lithuania,Northern Ireland,1,4
+4,2021-09-02,Estonia,Belgium,2,5
+,,,,,
+5,2021-09-04,Finland,Kazakhstan,1,0
+5,2021-09-04,Rep. Ireland,Azerbaijan,1,1
+5,2021-09-04,Slovenia,Malta,1,0
+5,2021-09-04,Serbia,Luxembourg,4,1
+5,2021-09-04,Latvia,Norway,0,2
+5,2021-09-04,Cyprus,Russia,0,2
+5,2021-09-04,Scotland,Moldova,1,0
+5,2021-09-04,Faroe Islands,Denmark,0,1
+5,2021-09-04,Gibraltar,Türkiye,0,3
+5,2021-09-04,Netherlands,Montenegro,4,0
+5,2021-09-04,Slovakia,Croatia,0,1
+5,2021-09-04,Ukraine,France,1,1
+5,2021-09-04,Israel,Austria,5,2
+5,2021-09-05,Iceland,N. Macedonia,2,2
+5,2021-09-05,Belarus,Wales,2,3
+5,2021-09-05,England,Andorra,4,0
+5,2021-09-05,Albania,Hungary,1,0
+5,2021-09-05,Bulgaria,Lithuania,1,0
+5,2021-09-05,Germany,Armenia,6,0
+5,2021-09-05,San Marino,Poland,1,7
+5,2021-09-05,Belgium,Czechia,3,0
+5,2021-09-05,Kosovo,Greece,1,1
+5,2021-09-05,Spain,Georgia,4,0
+5,2021-09-05,Switzerland,Italy,0,0
+5,2021-09-05,Romania,Liechtenstein,2,0
+,,,,,
+6,2021-09-07,Rep. Ireland,Serbia,1,1
+6,2021-09-07,Faroe Islands,Moldova,2,1
+6,2021-09-07,Azerbaijan,Portugal,0,3
+6,2021-09-07,Austria,Scotland,0,1
+6,2021-09-07,Slovakia,Cyprus,2,0
+6,2021-09-07,Netherlands,Türkiye,6,1
+6,2021-09-07,Bosnia & Herz'na,Kazakhstan,2,2
+6,2021-09-07,Norway,Gibraltar,5,1
+6,2021-09-07,France,Finland,2,0
+6,2021-09-07,Montenegro,Latvia,0,0
+6,2021-09-07,Croatia,Slovenia,3,0
+6,2021-09-07,Denmark,Israel,5,0
+6,2021-09-07,Russia,Malta,2,0
+6,2021-09-08,Iceland,Germany,0,4
+6,2021-09-08,Wales,Estonia,0,0
+6,2021-09-08,Northern Ireland,Switzerland,0,0
+6,2021-09-08,Armenia,Liechtenstein,1,1
+6,2021-09-08,N. Macedonia,Romania,0,0
+6,2021-09-08,Albania,San Marino,5,0
+6,2021-09-08,Hungary,Andorra,2,1
+6,2021-09-08,Italy,Lithuania,5,0
+6,2021-09-08,Poland,England,1,1
+6,2021-09-08,Kosovo,Spain,0,2
+6,2021-09-08,Belarus,Belgium,0,1
+6,2021-09-08,Greece,Sweden,2,1
+,,,,,
+7,2021-10-08,Iceland,Armenia,1,1
+7,2021-10-08,Germany,Romania,2,1
+7,2021-10-08,Gibraltar,Montenegro,0,3
+7,2021-10-08,Czechia,Wales,2,2
+7,2021-10-08,Malta,Slovenia,0,4
+7,2021-10-08,Liechtenstein,N. Macedonia,0,4
+7,2021-10-08,Russia,Slovakia,1,0
+7,2021-10-08,Estonia,Belarus,2,0
+7,2021-10-08,Türkiye,Norway,1,1
+7,2021-10-08,Latvia,Netherlands,0,1
+7,2021-10-08,Cyprus,Croatia,0,3
+7,2021-10-09,Lithuania,Bulgaria,3,1
+7,2021-10-09,Scotland,Israel,3,2
+7,2021-10-09,Sweden,Kosovo,3,0
+7,2021-10-09,Finland,Ukraine,1,2
+7,2021-10-09,Kazakhstan,Bosnia & Herz'na,0,2
+7,2021-10-09,Faroe Islands,Austria,0,2
+7,2021-10-09,Georgia,Greece,0,2
+7,2021-10-09,Azerbaijan,Rep. Ireland,0,3
+7,2021-10-09,Hungary,Albania,0,1
+7,2021-10-09,Switzerland,Northern Ireland,2,0
+7,2021-10-09,Poland,San Marino,5,0
+7,2021-10-09,Andorra,England,0,5
+7,2021-10-09,Luxembourg,Serbia,0,1
+7,2021-10-09,Moldova,Denmark,0,4
+,,,,,
+8,2021-10-11,Iceland,Liechtenstein,4,0
+8,2021-10-11,Cyprus,Malta,2,2
+8,2021-10-11,Netherlands,Gibraltar,6,0
+8,2021-10-11,Slovenia,Russia,1,2
+8,2021-10-11,Norway,Montenegro,2,0
+8,2021-10-11,N. Macedonia,Germany,0,4
+8,2021-10-11,Croatia,Slovakia,2,2
+8,2021-10-11,Latvia,Türkiye,1,2
+8,2021-10-11,Estonia,Wales,0,1
+8,2021-10-11,Belarus,Czechia,0,2
+8,2021-10-11,Romania,Armenia,1,0
+8,2021-10-12,Faroe Islands,Scotland,0,1
+8,2021-10-12,Portugal,Luxembourg,5,0
+8,2021-10-12,England,Hungary,1,1
+8,2021-10-12,Kazakhstan,Finland,0,2
+8,2021-10-12,Kosovo,Georgia,1,2
+8,2021-10-12,Albania,Poland,0,1
+8,2021-10-12,Denmark,Austria,1,0
+8,2021-10-12,Sweden,Greece,2,0
+8,2021-10-12,Serbia,Azerbaijan,3,1
+8,2021-10-12,San Marino,Andorra,0,3
+8,2021-10-12,Israel,Moldova,2,1
+8,2021-10-12,Bulgaria,Northern Ireland,2,1
+8,2021-10-12,Lithuania,Switzerland,0,4
+8,2021-10-12,Ukraine,Bosnia & Herz'na,1,1
+,,,,,
+9,2021-11-11,Rep. Ireland,Portugal,0,0
+9,2021-11-11,Russia,Cyprus,6,0
+9,2021-11-11,Slovakia,Slovenia,2,2
+9,2021-11-11,Germany,Liechtenstein,9,0
+9,2021-11-11,Malta,Croatia,1,7
+9,2021-11-11,Armenia,N. Macedonia,0,5
+9,2021-11-11,Georgia,Sweden,2,0
+9,2021-11-11,Azerbaijan,Luxembourg,1,3
+9,2021-11-11,Romania,Iceland,0,0
+9,2021-11-11,Greece,Spain,0,1
+9,2021-11-12,Moldova,Scotland,0,2
+9,2021-11-12,Northern Ireland,Lithuania,1,0
+9,2021-11-12,England,Albania,5,0
+9,2021-11-12,Hungary,San Marino,4,0
+9,2021-11-12,Andorra,Poland,1,4
+9,2021-11-12,Austria,Israel,4,2
+9,2021-11-12,Italy,Switzerland,1,1
+9,2021-11-12,Denmark,Faroe Islands,3,1
+9,2021-11-13,Bosnia & Herz'na,Finland,1,3
+9,2021-11-13,Norway,Latvia,0,0
+9,2021-11-13,Wales,Belarus,5,1
+9,2021-11-13,Türkiye,Gibraltar,6,0
+9,2021-11-13,France,Kazakhstan,8,0
+9,2021-11-13,Belgium,Estonia,3,1
+9,2021-11-13,Montenegro,Netherlands,2,2
+,,,,,
+10,2021-11-14,Malta,Slovakia,0,6
+10,2021-11-14,Croatia,Russia,1,0
+10,2021-11-14,Slovenia,Cyprus,2,1
+10,2021-11-14,Liechtenstein,Romania,0,2
+10,2021-11-14,N. Macedonia,Iceland,3,1
+10,2021-11-14,Portugal,Serbia,1,2
+10,2021-11-14,Luxembourg,Rep. Ireland,0,3
+10,2021-11-14,Spain,Sweden,1,0
+10,2021-11-14,Armenia,Germany,1,4
+10,2021-11-14,Greece,Kosovo,1,1
+10,2021-11-15,Northern Ireland,Italy,0,0
+10,2021-11-15,Scotland,Denmark,2,0
+10,2021-11-15,Switzerland,Bulgaria,4,0
+10,2021-11-15,Albania,Andorra,1,0
+10,2021-11-15,San Marino,England,0,10
+10,2021-11-15,Poland,Hungary,1,2
+10,2021-11-15,Austria,Moldova,4,1
+10,2021-11-15,Israel,Faroe Islands,3,2
+10,2021-11-16,Wales,Belgium,1,1
+10,2021-11-16,Gibraltar,Latvia,1,3
+10,2021-11-16,Montenegro,Türkiye,1,2
+10,2021-11-16,Czechia,Estonia,2,0
+10,2021-11-16,Netherlands,Norway,2,0
+10,2021-11-16,Bosnia & Herz'na,Ukraine,0,2
+10,2021-11-16,Finland,France,0,2
+,,,,,
+,2022-03-24,Portugal,Türkiye,3,1
+,2022-03-24,Wales,Austria,2,1
+,2022-03-24,Russia,Poland,,
+,2022-03-24,Sweden,Czechia,1,0
+,2022-03-24,Italy,N. Macedonia,0,1
+,2022-03-29,Portugal,N. Macedonia,2,0
+,2022-03-29,Poland,Sweden,2,0
+,2022-06-01,Scotland,Ukraine,1,3
+,2022-06-05,Wales,Ukraine,1,0

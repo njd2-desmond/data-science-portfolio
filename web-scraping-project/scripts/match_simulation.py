@@ -7,10 +7,10 @@ from scipy import stats
 import os
 
 def calculate_xg_values(home_team,away_team,game_ratings):
-    home_xg = (game_ratings[game_ratings['Team']==home_team]['xG_x']).iloc[0]
-    home_xga = (game_ratings[game_ratings['Team']==home_team]['xGA_x']).iloc[0]
-    away_xg = (game_ratings[game_ratings['Team']==away_team]['xG_y']).iloc[0]
-    away_xga = (game_ratings[game_ratings['Team']==away_team]['xGA_y']).iloc[0]
+    home_xg = (game_ratings[game_ratings['Team']==home_team]['HxG']).iloc[0]
+    home_xga = (game_ratings[game_ratings['Team']==home_team]['HxGA']).iloc[0]
+    away_xg = (game_ratings[game_ratings['Team']==away_team]['AxG']).iloc[0]
+    away_xga = (game_ratings[game_ratings['Team']==away_team]['AxGA']).iloc[0]
     home_goals_pred = (home_xg * away_xga).round(2)
     away_goals_pred = (away_xg * home_xga).round(2)
     return home_goals_pred, away_goals_pred
@@ -95,6 +95,8 @@ summary_df['Goal Difference'] = (summary_df['Goals Scored']) - (summary_df['Goal
 summary_df['Points'] = (summary_df['Wins'] * 3) + summary_df['Draws']
 # Sort the DataFrame first by Points, then by Goals Scored
 summary_df.sort_values(by=['Points', 'Goal Difference'], ascending=False, inplace=True)
+summary_df = summary_df.reset_index(drop=True)  # Reset index
+summary_df.insert(0,'Position',summary_df.index + 1)
 print(summary_df)
 
 summary_df.to_csv(r'web-scraping-project\data\season_simulation_table.csv',index=False)
