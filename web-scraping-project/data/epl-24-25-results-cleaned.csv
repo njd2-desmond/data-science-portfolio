@@ -128,28 +128,28 @@ Date,Home,HxG,AxG,Away,HG,AG
 2024-11-23,Fulham,1.0,1.3,Wolves,1,4
 2024-11-23,Manchester City,2.1,2.5,Tottenham,0,4
 2024-11-24,Southampton,1.3,3.1,Liverpool,2,3
-2024-11-24,Ipswich Town,1.7,0.9,Manchester Utd,1,1
-2024-11-25,Newcastle Utd,,,West Ham,,
+2024-11-24,Ipswich Town,1.6,0.8,Manchester Utd,1,1
+2024-11-25,Newcastle Utd,1.6,0.9,West Ham,0,2
 ,,,,,,
-2024-11-29,Brighton,,,Southampton,,
-2024-11-30,Crystal Palace,,,Newcastle Utd,,
-2024-11-30,Wolves,,,Bournemouth,,
-2024-11-30,Nott'ham Forest,,,Ipswich Town,,
-2024-11-30,Brentford,,,Leicester City,,
-2024-11-30,West Ham,,,Arsenal,,
-2024-12-01,Chelsea,,,Aston Villa,,
-2024-12-01,Tottenham,,,Fulham,,
-2024-12-01,Manchester Utd,,,Everton,,
-2024-12-01,Liverpool,,,Manchester City,,
+2024-11-29,Brighton,1.7,1.0,Southampton,1,1
+2024-11-30,Crystal Palace,1.7,0.0,Newcastle Utd,1,1
+2024-11-30,Wolves,0.5,3.3,Bournemouth,2,4
+2024-11-30,Nott'ham Forest,1.6,0.6,Ipswich Town,1,0
+2024-11-30,Brentford,2.4,1.1,Leicester City,4,1
+2024-11-30,West Ham,1.5,3.5,Arsenal,2,5
+2024-12-01,Chelsea,1.6,1.2,Aston Villa,3,0
+2024-12-01,Tottenham,0.8,1.5,Fulham,1,1
+2024-12-01,Manchester Utd,1.1,0.6,Everton,4,0
+2024-12-01,Liverpool,3.4,0.8,Manchester City,2,0
 ,,,,,,
-2024-12-03,Ipswich Town,,,Crystal Palace,,
-2024-12-03,Leicester City,,,West Ham,,
-2024-12-04,Everton,,,Wolves,,
-2024-12-04,Newcastle Utd,,,Liverpool,,
-2024-12-04,Manchester City,,,Nott'ham Forest,,
-2024-12-04,Southampton,,,Chelsea,,
-2024-12-04,Arsenal,,,Manchester Utd,,
-2024-12-04,Aston Villa,,,Brentford,,
+2024-12-03,Ipswich Town,0.5,1.6,Crystal Palace,0,1
+2024-12-03,Leicester City,1.7,3.0,West Ham,3,1
+2024-12-04,Everton,1.0,0.8,Wolves,4,0
+2024-12-04,Newcastle Utd,2.1,2.0,Liverpool,3,3
+2024-12-04,Manchester City,2.4,0.9,Nott'ham Forest,3,0
+2024-12-04,Southampton,1.5,5.1,Chelsea,1,5
+2024-12-04,Arsenal,2.3,0.3,Manchester Utd,2,0
+2024-12-04,Aston Villa,2.2,0.9,Brentford,3,1
 2024-12-05,Fulham,,,Brighton,,
 2024-12-05,Bournemouth,,,Tottenham,,
 ,,,,,,
