@@ -1,0 +1,31 @@
+Date,Home,Away,HomeScore,AwayScore
+05-Sep-24,South Korea,Palestine,0,0
+05-Sep-24,Iraq,Oman,1,0
+05-Sep-24,Jordan,Kuwait,1,1
+10-Sep-24,Palestine,Jordan,1,3
+10-Sep-24,Oman,South Korea,1,3
+10-Sep-24,Kuwait,Iraq,0,0
+10-Oct-24,Jordan,South Korea,0,2
+10-Oct-24,Oman,Kuwait,4,0
+10-Oct-24,Iraq,Palestine,1,0
+15-Oct-24,South Korea,Iraq,3,2
+15-Oct-24,Jordan,Oman,4,0
+15-Oct-24,Palestine,Kuwait,2,2
+14-Nov-24,Kuwait,South Korea,1,3
+14-Nov-24,Oman,Palestine,1,0
+14-Nov-24,Iraq,Jordan,0,0
+19-Nov-24,Palestine,South Korea,1,1
+19-Nov-24,Oman,Iraq,0,1
+19-Nov-24,Kuwait,Jordan,1,1
+20-Mar-25,South Korea,Oman,,
+20-Mar-25,Iraq,Kuwait,,
+20-Mar-25,Jordan,Palestine,,
+25-Mar-25,South Korea,Jordan,,
+25-Mar-25,Palestine,Iraq,,
+25-Mar-25,Kuwait,Oman,,
+05-Jun-25,Iraq,South Korea,,
+05-Jun-25,Oman,Jordan,,
+05-Jun-25,Kuwait,Palestine,,
+10-Jun-25,South Korea,Kuwait,,
+10-Jun-25,Jordan,Iraq,,
+10-Jun-25,Palestine,Oman,,

@@ -1,0 +1,193 @@
+Group,Date,Home,HG,AG,Away
+A,04-Sep,Luxembourg,,,Northern Ireland
+A,04-Sep,Slovakia,,,Germany
+A,07-Sep,Luxembourg,,,Slovakia
+A,07-Sep,Germany,,,Northern Ireland
+A,10-Oct,Northern Ireland,,,Slovakia
+A,10-Oct,Germany,,,Luxembourg
+A,13-Oct,Northern Ireland,,,Germany
+A,13-Oct,Slovakia,,,Luxembourg
+A,14-Nov,Luxembourg,,,Germany
+A,14-Nov,Slovakia,,,Northern Ireland
+A,17-Nov,Northern Ireland,,,Luxembourg
+A,17-Nov,Germany,,,Slovakia
+B,05-Sep,Slovenia,,,Sweden
+B,05-Sep,Switzerland,,,Kosovo
+B,08-Sep,Kosovo,,,Sweden
+B,08-Sep,Switzerland,,,Slovenia
+B,10-Oct,Kosovo,,,Slovenia
+B,10-Oct,Sweden,,,Switzerland
+B,13-Oct,Slovenia,,,Switzerland
+B,13-Oct,Sweden,,,Kosovo
+B,15-Nov,Slovenia,,,Kosovo
+B,15-Nov,Switzerland,,,Sweden
+B,18-Nov,Kosovo,,,Switzerland
+B,18-Nov,Sweden,,,Slovenia
+C,05-Sep,Greece,,,Belarus
+C,05-Sep,Denmark,,,Scotland
+C,08-Sep,Belarus,,,Scotland
+C,08-Sep,Greece,,,Denmark
+C,09-Oct,Belarus,,,Denmark
+C,09-Oct,Scotland,,,Greece
+C,12-Oct,Scotland,,,Belarus
+C,12-Oct,Denmark,,,Greece
+C,15-Nov,Greece,,,Scotland
+C,15-Nov,Denmark,,,Belarus
+C,18-Nov,Belarus,,,Greece
+C,18-Nov,Scotland,,,Denmark
+D,05-Sep,Iceland,,,Azerbaijan
+D,05-Sep,Ukraine,,,France
+D,09-Sep,Azerbaijan,,,Ukraine
+D,09-Sep,France,,,Iceland
+D,10-Oct,Iceland,,,Ukraine
+D,10-Oct,France,,,Azerbaijan
+D,13-Oct,Iceland,,,France
+D,13-Oct,Ukraine,,,Azerbaijan
+D,13-Nov,Azerbaijan,,,Iceland
+D,13-Nov,France,,,Ukraine
+D,16-Nov,Azerbaijan,,,France
+D,16-Nov,Ukraine,,,Iceland
+E,04-Sep,Georgia,,,Turkiye
+E,04-Sep,Bulgaria,,,Spain
+E,07-Sep,Georgia,,,Bulgaria
+E,07-Sep,Turkiye,,,Spain
+E,11-Oct,Bulgaria,,,Turkiye
+E,11-Oct,Spain,,,Georgia
+E,14-Oct,Turkiye,,,Georgia
+E,14-Oct,Spain,,,Bulgaria
+E,15-Nov,Georgia,,,Spain
+E,15-Nov,Turkiye,,,Bulgaria
+E,18-Nov,Bulgaria,,,Georgia
+E,18-Nov,Spain,,,Turkiye
+F,06-Sep,Armenia,,,Portugal
+F,06-Sep,Rep. Ireland,,,Hungary
+F,09-Sep,Armenia,,,Rep. Ireland
+F,09-Sep,Hungary,,,Portugal
+F,11-Oct,Hungary,,,Armenia
+F,11-Oct,Portugal,,,Rep. Ireland
+F,14-Oct,Rep. Ireland,,,Armenia
+F,14-Oct,Portugal,,,Hungary
+F,13-Nov,Armenia,,,Hungary
+F,13-Nov,Rep. Ireland,,,Portugal
+F,16-Nov,Hungary,,,Rep. Ireland
+F,16-Nov,Portugal,,,Armenia
+G,21-Mar,Malta,,,Finland
+G,21-Mar,Poland,,,Lithuania
+G,24-Mar,Lithuania,,,Finland
+G,24-Mar,Poland,,,Malta
+G,07-Jun,Malta,,,Lithuania
+G,07-Jun,Finland,,,Netherlands
+G,10-Jun,Finland,,,Poland
+G,10-Jun,Netherlands,,,Malta
+G,04-Sep,Lithuania,,,Malta
+G,04-Sep,Netherlands,,,Poland
+G,07-Sep,Lithuania,,,Netherlands
+G,07-Sep,Poland,,,Finland
+G,09-Oct,Finland,,,Lithuania
+G,09-Oct,Malta,,,Netherlands
+G,12-Oct,Lithuania,,,Poland
+G,12-Oct,Netherlands,,,Finland
+G,14-Nov,Finland,,,Malta
+G,14-Nov,Poland,,,Netherlands
+G,17-Nov,Malta,,,Poland
+G,17-Nov,Netherlands,,,Lithuania
+H,21-Mar,Cyprus,,,San Marino
+H,21-Mar,Romania,,,Bosnia & Herz'na
+H,24-Mar,Bosnia & Herz'na,,,Cyprus
+H,24-Mar,San Marino,,,Romania
+H,07-Jun,Bosnia & Herz'na,,,San Marino
+H,07-Jun,Austria,,,Romania
+H,10-Jun,Romania,,,Cyprus
+H,10-Jun,San Marino,,,Austria
+H,06-Sep,Austria,,,Cyprus
+H,06-Sep,San Marino,,,Bosnia & Herz'na
+H,09-Sep,Bosnia & Herz'na,,,Austria
+H,09-Sep,Cyprus,,,Romania
+H,09-Oct,Austria,,,San Marino
+H,09-Oct,Cyprus,,,Bosnia & Herz'na
+H,12-Oct,San Marino,,,Cyprus
+H,12-Oct,Romania,,,Austria
+H,15-Nov,Cyprus,,,Austria
+H,15-Nov,Bosnia & Herz'na,,,Romania
+H,18-Nov,Austria,,,Bosnia & Herz'na
+H,18-Nov,Romania,,,San Marino
+I,22-Mar,Moldova,,,Norway
+I,22-Mar,Israel,,,Estonia
+I,25-Mar,Israel,,,Norway
+I,25-Mar,Moldova,,,Estonia
+I,06-Jun,Estonia,,,Israel
+I,06-Jun,Norway,,,Italy
+I,09-Jun,Estonia,,,Norway
+I,09-Jun,Italy,,,Moldova
+I,05-Sep,Moldova,,,Israel
+I,05-Sep,Italy,,,Estonia
+I,08-Sep,Israel,,,Italy
+I,08-Sep,Norway,,,Moldova
+I,11-Oct,Norway,,,Israel
+I,11-Oct,Estonia,,,Italy
+I,14-Oct,Estonia,,,Moldova
+I,14-Oct,Italy,,,Israel
+I,13-Nov,Norway,,,Estonia
+I,13-Nov,Moldova,,,Italy
+I,16-Nov,Israel,,,Moldova
+I,16-Nov,Italy,,,Norway
+J,22-Mar,Liechtenstein,,,N. Macedonia
+J,22-Mar,Wales,,,Kazakhstan
+J,25-Mar,Liechtenstein,,,Kazakhstan
+J,25-Mar,N. Macedonia,,,Wales
+J,06-Jun,N. Macedonia,,,Belgium
+J,06-Jun,Wales,,,Liechtenstein
+J,09-Jun,Kazakhstan,,,N. Macedonia
+J,09-Jun,Belgium,,,Wales
+J,04-Sep,Kazakhstan,,,Wales
+J,04-Sep,Liechtenstein,,,Belgium
+J,07-Sep,N. Macedonia,,,Liechtenstein
+J,07-Sep,Belgium,,,Kazakhstan
+J,10-Oct,Kazakhstan,,,Liechtenstein
+J,10-Oct,Belgium,,,N. Macedonia
+J,13-Oct,N. Macedonia,,,Kazakhstan
+J,13-Oct,Wales,,,Belgium
+J,15-Nov,Kazakhstan,,,Belgium
+J,15-Nov,Liechtenstein,,,Wales
+J,18-Nov,Belgium,,,Liechtenstein
+J,18-Nov,Wales,,,N. Macedonia
+K,21-Mar,Andorra,,,Latvia
+K,21-Mar,England,,,Albania
+K,24-Mar,Albania,,,Andorra
+K,24-Mar,England,,,Latvia
+K,07-Jun,Andorra,,,England
+K,07-Jun,Albania,,,Serbia
+K,10-Jun,Latvia,,,Albania
+K,10-Jun,Serbia,,,Andorra
+K,06-Sep,Latvia,,,Serbia
+K,06-Sep,England,,,Andorra
+K,09-Sep,Albania,,,Latvia
+K,09-Sep,Serbia,,,England
+K,11-Oct,Latvia,,,Andorra
+K,11-Oct,Serbia,,,Albania
+K,14-Oct,Andorra,,,Serbia
+K,14-Oct,Latvia,,,England
+K,13-Nov,Andorra,,,Albania
+K,13-Nov,England,,,Serbia
+K,16-Nov,Albania,,,England
+K,16-Nov,Serbia,,,Latvia
+L,22-Mar,Montenegro,,,Gibraltar
+L,22-Mar,Czechia,,,Faroe Islands
+L,25-Mar,Gibraltar,,,Czechia
+L,25-Mar,Montenegro,,,Faroe Islands
+L,06-Jun,Czechia,,,Montenegro
+L,06-Jun,Gibraltar,,,Croatia
+L,09-Jun,Faroe Islands,,,Gibraltar
+L,09-Jun,Croatia,,,Czechia
+L,05-Sep,Faroe Islands,,,Croatia
+L,05-Sep,Montenegro,,,Czechia
+L,08-Sep,Gibraltar,,,Faroe Islands
+L,08-Sep,Croatia,,,Montenegro
+L,09-Oct,Czechia,,,Croatia
+L,09-Oct,Faroe Islands,,,Montenegro
+L,12-Oct,Faroe Islands,,,Czechia
+L,12-Oct,Croatia,,,Gibraltar
+L,14-Nov,Gibraltar,,,Montenegro
+L,14-Nov,Croatia,,,Faroe Islands
+L,17-Nov,Czechia,,,Gibraltar
+L,17-Nov,Montenegro,,,Croatia

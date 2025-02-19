@@ -3,8 +3,6 @@ from scipy.stats import poisson
 import random
 results_23_24 = pd.read_csv(r'web-scraping-project\data\epl-24-25-results-cleaned.csv').dropna(subset=['Home']) #If no entry for home side, assume game is not in this row
 team_ratings = pd.read_csv(r'web-scraping-project\data\team-home-away-ratings.csv') #Read in csv from creating_team_ratings
-from scipy import stats
-import os
 
 def calculate_xg_values(home_team,away_team,game_ratings):
     home_xg = (game_ratings[game_ratings['Team']==home_team]['HxG']).iloc[0]
@@ -13,12 +11,15 @@ def calculate_xg_values(home_team,away_team,game_ratings):
     away_xga = (game_ratings[game_ratings['Team']==away_team]['AxGA']).iloc[0]
     home_goals_pred = (home_xg * away_xga).round(2)
     away_goals_pred = (away_xg * home_xga).round(2)
+    home_goals_pred = ((home_xg + away_xga)/2).round(2)
+    away_goals_pred = ((away_xg + home_xga)/2).round(2)
     return home_goals_pred, away_goals_pred
 
 def simulate_match(home_goals_pred,away_goals_pred, num_sims=10000):
     home_team_goals_sim = poisson.rvs(home_goals_pred,size=num_sims)
     away_team_goals_sim = poisson.rvs(away_goals_pred,size=num_sims)
     print("Simulating",home_team,"vs",away_team,"...")
+    print(home_goals_pred,"-",away_goals_pred)
     return home_team_goals_sim, away_team_goals_sim
 
 def choose_random_sim(home_team_goals_sim,away_team_goals_sim):
@@ -28,8 +29,8 @@ def choose_random_sim(home_team_goals_sim,away_team_goals_sim):
     })
     results_df['Scoreline'] = results_df['Team1 Goals'].astype(str) + '-' + results_df['Team2 Goals'].astype(str)
     result_count = results_df['Scoreline'].value_counts()
-    top_10_scorelines = result_count.head(5).index.tolist()
-    print("Top 5 Scorelines:",top_10_scorelines)
+    top_10_scorelines = result_count.head(7).index.tolist()
+    print("Top 3 Scorelines:",top_10_scorelines)
     selected_scoreline = random.choice(top_10_scorelines)
     print(selected_scoreline)
     hg, ag = map(int, selected_scoreline.split('-'))
